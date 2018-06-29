@@ -1,1 +1,1 @@
-## Zen and the art of motorcycle maintenance
+## Zen and the Art of Motorcycle Maintenance
