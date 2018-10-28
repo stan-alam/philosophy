@@ -281,73 +281,153 @@ to things that I have done—because I’m implicitly affecting things. We’re 
 affected by the world around us and certain trajectories are being set in motion all the time.
 
 The more I can gain a sense of those larger trajectories, the more I’m gaining a sense
-of the Way, in other words, how everything is in fact interconnected—and therefore how these little things I’m doing can shift the Way or not.
+of the Way, in other words, how everything is in fact interconnected—and therefore
+how these little things I’m doing can shift the Way or not.
 
-There are two things that occur to me there. First of all, is this like the Buddhist idea that human individuality is a kind of illusion? Secondly, what about time? Is the Way, as you’ve described it, outside of time, so that everything that has ever happened and will happen is all part of it? Or are you, as the thinker, somehow located in time and have to take your future as uncertain?
+There are two things that occur to me there. First of all, is this like the Buddhist
+idea that human individuality is a kind of illusion? Secondly, what about time? Is the
+Way, as you’ve described it, outside of time, so that everything that has ever happened
+and will happen is all part of it? Or are you, as the thinker, somehow located in time
+and have to take your future as uncertain?
 
-It’s more of the latter. One intriguing difference between the Laozi and, say, Buddhism is that in the Laozi the world around us isn’t illusory. We are creating the world around us which, in that sense, really does exist. The danger is that we’re usually creating it passively and very poorly and following it with very dangerous trajectories. What you’re training yourself to do is to sense how you can alter and work with these larger patterns without the dangerous sense that I, personally, can control everything.
+It’s more of the latter. One intriguing difference between the Laozi and, say, Buddhism
+is that in the Laozi the world around us isn’t illusory. We are creating the world around
+us which, in that sense, really does exist. The danger is that we’re usually creating it
+passively and very poorly and following it with very dangerous trajectories. What you’re
+training yourself to do is to sense how you can alter and work with these larger patterns
+without the dangerous sense that I, personally, can control everything.
 
-But, unlike Buddhism, the ultimate goal is not to withdraw and see the world as illusory. On the contrary, we are creating the world that really does exist and, usually, we’re creating it in a very dangerous, poor way.
+But, unlike Buddhism, the ultimate goal is not to withdraw and see the world as illusory.
+On the contrary, we are creating the world that really does exist and, usually, we’re creating it in a very dangerous, poor way.
 
 So what are the guidelines that make us better world creators?
 
-It’s all about training and self-cultivation. Part of what we’re training ourselves to do is to cease seeing the world in terms of simple dichotomies, simple rules, simple laws, simple ways that allow us to quickly—we think—understand what’s going on. All of these, in fact, are usually based upon very limited understandings of what’s happening around us. You’re training yourself—to use this terminology—to sense the Way, to sense how everything is interconnected, how things we’re doing are leading to certain consequences, often very dangerously and so how you can shift and work with the world around you.
+It’s all about training and self-cultivation. Part of what we’re training ourselves to
+do is to cease seeing the world in terms of simple dichotomies, simple rules, simple laws,
+simple ways that allow us to quickly—we think—understand what’s going on. All of these, in
+fact, are usually based upon very limited understandings of what’s happening around us.
+You’re training yourself—to use this terminology—to sense the Way, to sense how everything is
+interconnected, how things we’re doing are leading to certain consequences, often very
+dangerously and so how you can shift and work with the world around you.
 
-It’s interesting, as a philosophical position, because rules of thumb are incredibly useful in surviving and in not having to think too hard about what to do next. In general, people who you meet in the street don’t lie to you so you don’t have to be super-suspicious of everybody you meet. That seems a reasonable rule of thumb in life. But, actually, the world is complex and there are people who are deceptive, so it doesn’t always work. If I’m following the Way, am I to be supersensitive to every particular individual situation, or can I fall back on rules of thumb sometimes?
+It’s interesting, as a philosophical position, because rules of thumb are incredibly useful
+in surviving and in not having to think too hard about what to do next. In general, people who
+you meet in the street don’t lie to you so you don’t have to be super-suspicious of everybody
+you meet. That seems a reasonable rule of thumb in life. But, actually, the world is complex and
+there are people who are deceptive, so it doesn’t always work. If I’m following the Way, am I to
+be supersensitive to every particular individual situation, or can I fall back on rules of thumb
+sometimes?
 
-You are training yourself to spontaneously sense situations. Early on, this means training yourself to sense the complexity of situations. You’re pushing against our tendency to follow rules of thumb and easy patterns of thinking. But overall, over time, you’re training yourself to become so intuitively good at this that you’re able to sense situations, sense the patterns playing out in situations, and sense the little things you can do to alter these.
+You are training yourself to spontaneously sense situations. Early on, this means training
+yourself to sense the complexity of situations. You’re pushing against our tendency to follow
+rules of thumb and easy patterns of thinking. But overall, over time, you’re training yourself to
+become so intuitively good at this that you’re able to sense situations, sense the patterns playing
+out in situations, and sense the little things you can do to alter these.
 
-“One of the arguments is to try to be like water: water is very powerful, of course, but it flows. It exercises power by working with the flow, not fighting against it.”
+“One of the arguments is to try to be like water: water is very powerful, of course, but it flows. It
+exercises power by working with the flow, not fighting against it.”
 
-One of the intriguing ways it’ll speak about is influencing the world not in terms of things like power, control and domination. Instead, think of it in terms of softness, weakness, suppleness. You’re training yourself to sense the complexities of situations and the ways that, through little things you can do, you can alter those trajectories. You’re not dominating situations, you’re not even rationally controlling situations in a mental sense, you’re sensing them and working with them.
+One of the intriguing ways it’ll speak about is influencing the world not in terms of things like
+power, control and domination. Instead, think of it in terms of softness, weakness, suppleness. You’re
+training yourself to sense the complexities of situations and the ways that, through little things you
+can do, you can alter those trajectories. You’re not dominating situations, you’re not even rationally
+controlling situations in a mental sense, you’re sensing them and working with them.
 
-That reminds me of the saying that’s usually attributed to Bruce Lee: ‘be like water.’ Is that a Daoist principle?
+That reminds me of the saying that’s usually attributed to Bruce Lee: ‘be like water.’ Is that a
+Daoist principle?
 
-That comes directly from the Daodejing, from this text. One of the arguments is to try to be like water: water is very powerful, of course, but it flows. It exercises power by working with the flow, not fighting against it.
+That comes directly from the Daodejing, from this text. One of the arguments is to try to be like water:
+water is very powerful, of course, but it flows. It exercises power by working with the flow, not fighting
+against it.
 
 
 
-The third book you’ve chosen is the Essential Writings of Zhuangzi. Zhuangzi is not a philosopher I’m familiar with. Who was he?
-
-Zhuangzi, we are told, lived in the fourth century BCE. We actually don’t know much about him. In truth, all that we have from him—apart from later stories that are told about him—is this one text, which is extraordinary.
+The third book you’ve chosen is the Essential Writings of Zhuangzi. Zhuangzi is not a philosopher
+I’m familiar with. Who was he? Zhuangzi, we are told, lived in the fourth century BCE.
+We actually don’t know much about him. In truth, all that we have from him—apart from later
+stories that are told about him—is this one text, which is extraordinary.
 
 What makes it so extraordinary?
 
-It is a text that will later be categorised as a Daoist text, so as part of the same way of thinking as the Laozi. I tell my students to think of it as a very different take on a somewhat similar set of ideas. But it really is a different take. As far as we know, Zhuangzi didn’t know the Laozi. The term ‘Daoism’ did not exist at the time. It’s a later term that is aimed at bringing together these texts.
+It is a text that will later be categorised as a Daoist text, so as part of the same way of
+thinking as the Laozi. I tell my students to think of it as a very different take on a somewhat
+similar set of ideas. But it really is a different take. As far as we know, Zhuangzi didn’t know the
+Laozi. The term ‘Daoism’ did not exist at the time. It’s a later term that is aimed at bringing
+together these texts.
 
-In a nutshell, what the Zhuangzi is trying to do is to break us out of our patterns of thinking. But the way it will do that is not simply through very short, gnomic paradoxical statements. The way the Zhuangzi will do it is through this extraordinary, imaginative prose that will try, in the very way it’s written, to break us from our limited perspectives.
+In a nutshell, what the Zhuangzi is trying to do is to break us out of our patterns of thinking.
+But the way it will do that is not simply through very short, gnomic paradoxical statements. The way
+the Zhuangzi will do it is through this extraordinary, imaginative prose that will try, in the very
+way it’s written, to break us from our limited perspectives.
 
-So, as you’re reading it, you will take the point of view of a butcher, you will take the point of view of a bird, of a piece of bark, a fish. Zhuangzi is trying to break us out of our limited understandings so that we begin to get a sense of the world as endless flux, endless transformation, in which, if we can train ourselves to do so, we can begin to understand its tremendous multiplicity.
+So, as you’re reading it, you will take the point of view of a butcher, you will take the point of
+view of a bird, of a piece of bark, a fish. Zhuangzi is trying to break us out of our limited
+understandings so that we begin to get a sense of the world as endless flux, endless transformation,
+in which, if we can train ourselves to do so, we can begin to understand its tremendous multiplicity.
 
-Is this a recommendation to engage in a kind of meditative practice of decentring, or is it a literary device?
+Is this a recommendation to engage in a kind of meditative practice of decentring, or is it a
+literary device?
 
-It’s in between the two, and there’s also an element of a third part as well. Unlike a meditating, decentring process, it’s about training yourself to sense this multiplicity. A lot of the stories, for example, will revolve around skill-based activities. A butcher is one of the examples: a butcher, by the very ways that he undertakes his butchering activities, is learning to break away from his tendencies to think in very limited ways, and to sense the complexity of situations.
+It’s in between the two, and there’s also an element of a third part as well. Unlike a meditating,
+decentring process, it’s about training yourself to sense this multiplicity. A lot of the stories,
+for example, will revolve around skill-based activities. A butcher is one of the examples: a butcher,
+by the very ways that he undertakes his butchering activities, is learning to break away from his
+tendencies to think in very limited ways, and to sense the complexity of situations.
 
-This sounds like the idea of Jean-Paul Sartre’s café waiter in Being and Nothingness. The waiter is performing a ‘dance’ that’s been choreographed by his role. And, somehow, in the way that he does this he reveals to Sartre that he’s not genuinely, authentically free in his actions. He’s in bad faith, he’s deceiving himself. So Zhuangzi’s butcher doesn’t just perform the role of butcher, presumably. What does he or she do, then, that is different?
+This sounds like the idea of Jean-Paul Sartre’s café waiter in Being and Nothingness. The waiter is
+performing a ‘dance’ that’s been choreographed by his role. And, somehow, in the way that he does
+this he reveals to Sartre that he’s not genuinely, authentically free in his actions. He’s in bad faith,
+he’s deceiving himself. So Zhuangzi’s butcher doesn’t just perform the role of butcher, presumably.
+What does he or she do, then, that is different?
 
-It’s a very telling story. It’s meant analogically, of course. The butcher will begin simply slicing up pieces of meat according to a very rational calculation. Every slab is cut in exactly the same way. And, because that means you’re digging through all these bones and muscles and sinews, he has to constantly stop to sharpen his knife.
+It’s a very telling story. It’s meant analogically, of course. The butcher will begin simply slicing up
+pieces of meat according to a very rational calculation. Every slab is cut in exactly the same way. And,
+because that means you’re digging through all these bones and muscles and sinews, he has to constantly
+stop to sharpen his knife.
 
-“Imagine, in our everyday lives, training ourselves with the same kind of work that we would do to train ourselves in a sport or when we learn a musical instrument”
+“Imagine, in our everyday lives, training ourselves with the same kind of work that we would do to train
+ourselves in a sport or when we learn a musical instrument”
 
-Then the argument is that he slowly begins to realise, as the years go by, that the meat in fact has its own patterns. There are places where, say, the muscles will wrap around the tendons, which wrap around the bone, and every piece of meat is slightly different.
+Then the argument is that he slowly begins to realise, as the years go by, that the meat in fact has its
+own patterns. There are places where, say, the muscles will wrap around the tendons, which wrap around the
+bone, and every piece of meat is slightly different.
 
-There is no single way of understanding that. What you must do is learn to sense where these patterns flow. And he becomes so good at it, at a certain point, that he’s able, not with his mind but with his spirit, simply to sense these patterns and take his knife and slide it through the patterns of meat so flawlessly that he’s able to cut them perfectly without ever having to sharpen his knife again.
+There is no single way of understanding that. What you must do is learn to sense where these patterns flow.
+And he becomes so good at it, at a certain point, that he’s able, not with his mind but with his spirit,
+simply to sense these patterns and take his knife and slide it through the patterns of meat so flawlessly
+that he’s able to cut them perfectly without ever having to sharpen his knife again.
 
-This is a bit like a very skilled sportsperson being able to react to where the ball is flying and just do the right thing, rather than having to rely on a rational process of thinking through a set of actions.
+This is a bit like a very skilled sportsperson being able to react to where the ball is flying and just do
+the right thing, rather than having to rely on a rational process of thinking through a set of actions.
 
-That’s a perfect analogy. One is training oneself in a sport to become so good that you’re no longer thinking about what you’re physically doing—you’re just sensing situations perfectly. Learning a musical instrument would be another good analogy: you’re training yourself, over the years, to play the musical instrument, to affect the room, by being sensitive to the situation.
+That’s a perfect analogy. One is training oneself in a sport to become so good that you’re no longer
+thinking about what you’re physically doing—you’re just sensing situations perfectly. Learning a musical
+instrument would be another good analogy: you’re training yourself, over the years, to play the musical
+instrument, to affect the room, by being sensitive to the situation.
 
 “What you must do is learn to sense where these patterns flow”
 
-The argument of the Zhuangzi is that we should do this in our everyday lives. Imagine, in our everyday lives, training ourselves with the same kind of work that we would do to train ourselves in a sport or when we learn a musical instrument. We would be training ourselves in our lives, not to be battling through the world, not to bash against the world, but to sense situations, work with situations, alter situations as we work with them.
+The argument of the Zhuangzi is that we should do this in our everyday lives. Imagine, in our everyday lives,
+training ourselves with the same kind of work that we would do to train ourselves in a sport or when we learn
+a musical instrument. We would be training ourselves in our lives, not to be battling through the world, not to
+ash against the world, but to sense situations, work with situations, alter situations as we work with them.
 
-In other words, in your daily life, you would be performing the same sort of work that we otherwise think of doing in these restricted, skill-based activities.
+In other words, in your daily life, you would be performing the same sort of work that we otherwise think of
+doing in these restricted, skill-based activities.
 
-This is much closer, as an approach to ethics, to Aristotle, than to Kant. As an Aristotelean, you cultivate the virtues and the ideal is to become the kind of person who reacts appropriately when a situation confronts you. Whereas for Kant, there’s an application of a principle that ultimately boils down to a moral law—the ‘categorical imperative.’ Any particular moral act is just an instantiation of that. This approach requires a degree of cogitation to decide whether this particular action matches to the general principle.
+This is much closer, as an approach to ethics, to Aristotle, than to Kant. As an Aristotelean, you cultivate the
+virtues and the ideal is to become the kind of person who reacts appropriately when a situation confronts you.
+Whereas for Kant, there’s an application of a principle that ultimately boils down to a moral law—the ‘categorical
+imperative.’ Any particular moral act is just an instantiation of that. This approach requires a degree of
+cogitation to decide whether this particular action matches to the general principle.
 
-Very much so. Now, there were some thinkers in early China who did begin developing arguments a little bit like Kant’s, but much more consequentialist: they tried to develop a utilitarian calculus that we should be following to determine what to do and what not to do, how to become a good person, how not to become a good person.
+Very much so. Now, there were some thinkers in early China who did begin developing arguments a little bit
+like Kant’s, but much more consequentialist: they tried to develop a utilitarian calculus that we should be
+following to determine what to do and what not to do, how to become a good person, how not to become a good person.
 
-But, indeed, the texts we’ve been discussing so far are very Aristotelian. They’re pushing against such attempts and saying, ‘No, no, no it’s all about personal practice, about gaining the ability to sense situations well, of becoming virtuous over time by the way one senses situations.’ They are, therefore, very suspicious of attempts to say we can work out by some kind of a calculus—whether that’s deontological or utilitarian or what have you—what to do.
+But, indeed, the texts we’ve been discussing so far are very Aristotelian. They’re pushing against such
+attempts and saying, ‘No, no, no it’s all about personal practice, about gaining the ability to sense
+situations well, of becoming virtuous over time by the way one senses situations.’ They are, therefore, very suspicious of attempts to say we can work out by some kind of a calculus—whether that’s deontological or utilitarian or what have you—what to do.
 
 That seems a profound way of thinking about how to live. Has that filtered through Chinese society? Have these philosophers significantly influenced present day Chinese thought?
 
