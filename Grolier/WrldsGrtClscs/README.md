@@ -16,7 +16,7 @@ TODO :
 - [ ] 9 Autobiography / Benjamin Franklin --
 - [ ] 10 Essays / Michel Eyquem de Montaigne --
 - [ ] 11 Pensẽes / Blaise Pascal --
-- [ ] 12 The republic / Plato --
+- [X] 12 The republic / Plato --
 - [ ] 13 Lives of ten noble Greeks and Romans / Plutarchus --
 - [ ] 14 Walden, of Life in the woods / Henry David Thoreau --
 - [ ] 15 An invitation to great reading / Floyd Zulli. --
@@ -28,7 +28,7 @@ TODO :
 - [ ] 23 The Moonstone / Wilkie Collins --
 - [ ] 24 The red badge of courage and other stories / Stephen Crane --
 - [ ] 25 The life and strange surprising adventures of Robinson Crusoe / Daniel Defoe --
-- [ ] 26 A tale of two cities/ Charles Dickens --
+- [X] 26 A tale of two cities/ Charles Dickens --
 - [ ] 27 Crime and punishment / Fedor Mekhailovich Dostoevskiǐ --
 - [ ] 28 The idiot / Fedor Mekhailovich Dostoevskiǐ --
 - [ ] 29 The history of the adventures of Joseph Andrews and of his friend Mr. Abraham Adams --
@@ -42,9 +42,9 @@ TODO :
 - [ ] 38 Gulliver's travels / Jonathan Swift --
 - [ ] 39 Vanity fair : a novel without a hero / William Makepeace Thackeray --
 - [ ] 41 The adventures of Huckleberry Finn / Mark Twain --
-- [ ] 43 Faust; The sorrows of young Werther / Johann Wolfgang von Goethe --
-- [ ]45 The Odyssey / Homer --
-- [ ] 46 The Iliad / Homer --
+- [X] 43 Faust; The sorrows of young Werther / Johann Wolfgang von Goethe --
+- [X] 45 The Odyssey / Homer --
+- [X] 46 The Iliad / Homer --
 - [ ] 47 Paradise lost; Paradise regained / John Milton --
 - [ ] 49 The complete histories ; Poems / William Shakespeare --
 - [ ] 50 The complete tragedies / William Shakespeare.
