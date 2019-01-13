@@ -47,4 +47,5 @@ TODO :
 - [X] 46 The Iliad / Homer --
 - [ ] 47 Paradise lost; Paradise regained / John Milton --
 - [ ] 49 The complete histories ; Poems / William Shakespeare --
-- [ ] 50 The complete tragedies / William Shakespeare.
+- [ ] 50 The complete tragedies / William Shakespeare --
+- [ ] 51 To Serve Man / Rod Sterling ; Twilight Zone.
