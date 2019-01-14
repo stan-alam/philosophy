@@ -48,4 +48,5 @@ TODO :
 - [ ] 47 Paradise lost; Paradise regained / John Milton --
 - [ ] 49 The complete histories ; Poems / William Shakespeare --
 - [ ] 50 The complete tragedies / William Shakespeare --
-- [ ] 51 To Serve Man / Rod Sterling ; Twilight Zone.
+- [ ] 51 To Serve Man / Rod Serling ; Twilight Zone --
+- [ ] 52 If Chins Could Kill / Bruce Campbell ; Evil Dead series.
