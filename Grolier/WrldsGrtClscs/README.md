@@ -41,12 +41,10 @@ TODO :
 - [ ] 37 Ivanhoe / Sir Walter Scott --
 - [ ] 38 Gulliver's travels / Jonathan Swift --
 - [ ] 39 Vanity fair : a novel without a hero / William Makepeace Thackeray --
-- [ ] 41 The adventures of Huckleberry Finn / Mark Twain --
+- [X] 41 The adventures of Huckleberry Finn / Mark Twain --
 - [X] 43 Faust; The sorrows of young Werther / Johann Wolfgang von Goethe --
 - [X] 45 The Odyssey / Homer --
 - [X] 46 The Iliad / Homer --
 - [ ] 47 Paradise lost; Paradise regained / John Milton --
 - [ ] 49 The complete histories ; Poems / William Shakespeare --
-- [ ] 50 The complete tragedies / William Shakespeare --
-- [ ] 51 To Serve Man / Rod Serling ; Twilight Zone --
-- [ ] 52 If Chins Could Kill / Bruce Campbell ; Evil Dead series.
+- [ ] 50 The complete tragedies / William Shakespeare.
