@@ -1,0 +1,5 @@
+## notes on the Sea
+
+Humankind has a profound and complex relationship with the sea, a relationship that is extensively reflected in biology, psychology, religion, literature and poetry. The sea cradles and soothes us, we visit it often for solace and inspiration, it is familiar, being the place where life ultimately began. Yet the sea is also dark and mysterious and often spells catastrophe and death. The sea is a set of contradictions: kind, cruel, indifferent. She is a blind will that will 'have her way'. In exploring this most capricious of phenomena, David Farrell Krell engages the work of an array of thinkers and writers including, but not limited to, Homer, Thales, Anaximander, Heraclitus, Plato, Aristotle, H?lderlin, Melville, Woolf, Whitman, Nietzsche, Heidegger, Schelling, Ferenczi, Rank and Freud.
+
+The Sea explores the significance in Western civilization of the catastrophic and generative power of the sea and what humankind's complex relationship with it reveals about the human condition, human consciousness, temporality, striving, anxiety, happiness and mortality.
