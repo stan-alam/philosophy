@@ -1,0 +1,5 @@
+## notes on 'Buseyisms'
+
+Take a wild ride through the life and mind of Gary Busey in his new hilarious, uplifting, tell-all memoir, Buseyisms. Gary transports you on a laugh-out–loud journey through the crazy twists and turns of his rise to fame, his descent into drug addiction, and his trip to the ‘other side’ after a near-fatal motorcycle accident. Gary also shares untold stories of his militant upbringing, surviving cancer in the middle of his face, and fun behind the scenes stories of his most popular movies and television roles including: A Star Is Born, The Buddy Holly Story, Lethal Weapon, Point Break, Under Siege, The Firm, Entourage, Celebrity Apprentice, and more. Included in this book are dozens of personal photographs from Gary’s early years up until now.
+
+Gary is a living testimony to the resilience of the human body and spirit. In his simply written but profound memoir, he shares his Basic Instructions Before Leaving Earth to help others, who may be going through similar things, to realize that it is possible to survive challenging life events and come out a happy champion.
