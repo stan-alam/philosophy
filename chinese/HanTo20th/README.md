@@ -1,0 +1,3 @@
+## notes on 'Readings on Later Chinese Philosophy'
+
+An exceptional contribution to the teaching and study of Chinese thought, this anthology provides fifty-eight selections arranged chronologically in five main sections: Han Thought, Chinese Buddhism, Neo-Confucianism, Late Imperial Confucianism, and the Twentieth Century. The editors have selected writings that have been influential, that are philosophically engaging, and that can be understood as elements of an ongoing dialogue, particularly on issues regarding ethical cultivation, human nature, virtue, government, and the underlying structure of the universe. Within those topics, issues of contemporary interest, such as Chinese ideas about gender and the experiences of women, are brought to light.

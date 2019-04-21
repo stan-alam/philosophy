@@ -1,0 +1,3 @@
+## notes on Death, Ritual and Belief,
+
+now in its third edition, explores many important issues related to death and dying, from a religious studies perspective, including anthropology and sociology. Using the motif of 'words against death' it depicts human responses to grief by surveying the many ways in which people have not let death have the last word, not simply in terms of funeral rites but also in memorials, graves, and in ideas of ancestors, souls, gods, reincarnation and resurrection, whether in the great religious traditions of the world or in more local customs. He also examines bereavement and grief, experiences of the presence of dead, near-death experiences, pet-death and the symbolic death played out in religious rites.
