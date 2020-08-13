@@ -7,3 +7,11 @@
 <a>
   <img src="https://github.com/stan-alam/philosophy/blob/develop/Grolier/WrldsGrtClscs/DonQ/Don_Q/01/images/DonQ01%20-%202.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/philosophy/blob/develop/Grolier/WrldsGrtClscs/DonQ/Don_Q/01/images/DonQ01%20-%203.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/philosophy/blob/develop/Grolier/WrldsGrtClscs/DonQ/Don_Q/01/images/DonQ01%20-%204.png" width="80%" height="80%">
+</a>
