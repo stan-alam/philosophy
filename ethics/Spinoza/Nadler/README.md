@@ -1,0 +1,1 @@
+**Think Least of Death: Spinoza on How to Live and How to Die**
