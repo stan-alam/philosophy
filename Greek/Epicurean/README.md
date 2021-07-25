@@ -36,4 +36,12 @@ by Voula Tsouna (Author)
 A Few Days in Athens: The Friends of Epicurus Edition Paperback – January 21, 2015
 by Frances Wright (Author), Hiram Crespo
 
+How to Be an Epicurean: The Ancient Art of Living Well Hardcover – September 24, 2019
+
+Epicureanism (Volume 7) (Ancient Philosophies) First Edition
+by Tim O'Keefe  (Author)
+
+Reclaiming Epicurus: Penguin Special Kindle Edition
+by Luke Slattery 
+
 ```
