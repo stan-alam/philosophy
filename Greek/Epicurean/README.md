@@ -44,4 +44,22 @@ by Tim O'Keefe  (Author)
 Reclaiming Epicurus: Penguin Special Kindle Edition
 by Luke Slattery 
 
+The Cambridge Companion to Epicureanism (Cambridge Companions to Philosophy) 1st Edition
+by James Warren  (Author)
+
+Letters on Happiness: An Epicurean Dialogue Paperback – May 28, 2013
+by Peter Saint-Andre (Author)
+
+Epicurus & His Philosophy (Minnesota Archive Editions) Paperback – January 1, 1954
+by Norman Wentworth DeWitt (Author)
+"Both books by DeWitt were recommended by Ross. Epicurus and his philosophy has a cult following among some modern Epicureans. Others criticize “that it is very hefty, not the most accessible, and ultimately only so useful when it comes to implementing Epicurean philosophy, though it does present the history and theory well.”
+
+St. Paul and Epicurus (Minnesota Archive Editions) Paperback – January 1, 1954
+
+Children's books
+Epicurus the Sage Vol. 1 : Visiting Hades Paperback – January 1, 1989
+by William Messner-Lobes (Author), Sam Kieth (Illustrator)
+
+Epicurus the Sage, Vol. 2: The Many Loves of Zeus Paperback – January 1, 1991
+
 ```
