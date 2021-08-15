@@ -1,5 +1,9 @@
 ## notes on 'Moses the Egyptian'
 
+<p align="center">
+  <img src="https://github.com/stan-alam/philosophy/blob/develop/Atenism/Moses_TheEgyptian/images/PICT0009.JPG" width="50%" height="50%">
+</p>
+
 ```text
 “[Moses the Egyptian's] scholarly depth lends legitimacy to its revisionist claim. [It is not] designed to ignite controversy in the culture wars--something that cannot be said for some other efforts in the field. This deep seriousness alone is sufficient to recommend Assmann's study. Assmann tells several interlocking stories. His primary narrative line is the memory of Egypt in the European scholarly imagination. Here he attempts--with considerable success--to move beyond a conventional history of scholarship... Assmann moves beyond cultural history to something more subtle: the complex transmission of ideas which are sometimes recorded, sometimes recessive, sometimes almost forgotten. What is striking is not only Assmann's account of the written record of the Moses and Egypt story but his recovery of the reasons for its historical retention...Assmann has produced a learned study whose theses will themselves endure in the scholarly memory.”―John Peter Kenney, American Historical Review
 
