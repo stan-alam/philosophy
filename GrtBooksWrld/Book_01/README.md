@@ -32,6 +32,10 @@
  <img src="https://github.com/stan-alam/philosophy/blob/develop/GrtBooksWrld/Book_01/01/images/20210223_181018.jpg" width="50%" height="50%">
 </p>
 
+An Old Hacker's Tips On Staying Employed
+#1: Don't Be a Jerk. (That is just a bonus tip, in case you don't want to read past the subtitle)
+https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed
+
 <a>
   <img src="https://github.com/stan-alam/philosophy/blob/develop/GrtBooksWrld/Book_01/01/images/GreatConvo01-01%20-%20page%205.png" width="80%" height="80%">
 </a>
