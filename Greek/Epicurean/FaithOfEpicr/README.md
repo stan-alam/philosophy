@@ -1,0 +1,3 @@
+## notes On Faith of Epicurus
+
+In this text, Benjamin Farrington carries out a clarifying task of Epicurean philosophy, in its physical and ethical aspects, and underlines the influences it has had on other systems such as materialism and Christianity. Epicurus says: "Death, the most fearsome of all evils, means nothing to us; while we live there is no death, and when it comes to look for us, we are no more." And Farrington synthesizes: "We would not gain anything by living forever, but we gain everything by living righteously. What matters is the kind of life we ​​lead, not its duration". 
