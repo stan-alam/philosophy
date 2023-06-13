@@ -1,3 +1,23 @@
+```ascii
+Plato of Athens
+
+Early Christian writers, who found much of Plato’s work compatible with their own beliefs, interpreted this as parthenogenesis. 
+Note: 1
+
+The prince of wisdom was born by virgin birth,” gushed Saint Jerome.
+Note: 2
+
+: Plato was her fourth child.
+ This legend had two consequences.
+Note: 3
+
+The only fixed date that we have for Plato’s life, confirmed by historians, is that he died in the year 348/7. 
+
+The most important is that there is no evidence that he fought in any of the last battles of the Peloponnesian War in 406 and 405, so he was probably still under the age of twenty. Athens was critically short of manpower at the time, so he would certainly have been called up. Young Athenian men did a form of military service when they were eighteen and nineteen, but within the borders of Attica (the countryside of which Athens was the urban center); they did not serve abroad until they were twenty. So Plato seems to have still been under twenty in 405.
+Note: 4
+
+```
+
 Plato of Athens
 ===============
 
