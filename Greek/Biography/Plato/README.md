@@ -16,6 +16,24 @@ The only fixed date that we have for Plato’s life, confirmed by historians, is
 The most important is that there is no evidence that he fought in any of the last battles of the Peloponnesian War in 406 and 405, so he was probably still under the age of twenty. Athens was critically short of manpower at the time, so he would certainly have been called up. Young Athenian men did a form of military service when they were eighteen and nineteen, but within the borders of Attica (the countryside of which Athens was the urban center); they did not serve abroad until they were twenty. So Plato seems to have still been under twenty in 405.
 Note: 4
 
+415, at the instigation of the ambitious aristocrat
+
+Alcibiades and his political allies, who played the populist card, they chose to invade the island of Sicily, where the most powerful city was Syracuse, a potential ally of Sparta.
+
+
+It was utterly unrealistic to expect to be able to rule as troubled and as large an island as Sicily from distant Athens. Two years later, the Athenian expeditionary force was wiped out with the loss, over the course of the expedition, of forty thousand men—Athenians, allies, and mercenary auxiliaries.
+
+In 411 an oligarchy seized control of the government and delegated executive power to a council of four hundred sympathizers drawn from the ranks of the disgruntled rich. The transition was relatively peaceful, but after only a few months the people rose up against the council, which had signally failed to keep any of its promises, and democracy was
+
+ restored. Plato was old enough to pay critical attention to the turmoil; his family belonged to the same stratum of society as the oligarchs, and at least some of them may have had some sympathy for the cause.
+
+
+renewed hope between 411 and 408, when Alcibiades achieved significant successes at sea, but after that, hope died. The Persians, who wanted to reclaim their mastery of the Greek city-states of Asia Minor, most of which were in the Athenian alliance,
+
+started to underwrite the Spartan war effort. This assistance made it possible for the Spartans to develop a powerful fleet, when naval superiority had been the essential underpinning of Athenian hopes 
+
+404. The Athenian navy had been annihilated the previous year, leaving Athens vulnerable. The Spartans besieged the city into starvation and then imposed the rule of the Thirty.
+
 ```
 
 Plato of Athens
