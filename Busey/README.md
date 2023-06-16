@@ -116,6 +116,38 @@ Note: 6
  **Wanted In Forever Eternity**
 Note: 7
 
+We also got fired from Knott’s Berry Farm because we were blamed for starting a fight between a group of hippies and a group of Marines. That didn’t stop us. We kept on keeping on.
+
+
+bouffant
+
+The Cram-a-Lot, built to look like King Arthur’s castle, was a popular hotel in Tulsa with the young people who went there after proms and dances to get a room. 
+
+Everything looked different—the Tulsa skyline, the streets, the trees. Even I looked different in my reflection. No longer a carefree warrior of life, I had a wife. The responsibilities I had just taken on, to this loving partner who entrusted her “forever” with me—and now carried my last name—weighed heavily on my mind.
+
+
+8. GUIDE
+ Giving Understanding In Detailed Experience
+Note: 8
+
+EVERYBODY ON THIS PLANET IS AN ACTOR, one way or another—it comes with being human. I
+Note: See Kurt V.
+
+“We have a new student—Gary Busey.” He focused all his attention on me and asked, “Are you ready to do that monologue you mentioned in the office?”
+
+workshop, I learned my most valuable lesson: Keep it simple and be yourself.
+
+Note: 8
+
+. Most nights, Jimmy stayed with me after class until 11:30 or 12:00. He taught me where to stand, correct posture, head positioning, sitting, eye movements, all to optimize camera time in all types of shots. I hung on his every word. I especially loved to hear about his past movie experiences.
+ He quickly became my mentor.
+ Jimmy saw promise in me. He knew I had something before I knew I had anything. 
+Note: 8
+
+Okay. What’s ‘three-button’?”
+ He pointed to the third button on my shirt, then—boom—whipped a swift jab faster than the strike of a rattlesnake, landing his fist on the third button just at my sternum. “If you don’t listen, I’ll three-button ya right here, and you won’t be able to breathe for five minutes.”
+Note: 8
+
 
 Take a wild ride through the life and mind of Gary Busey in his new hilarious, uplifting, tell-all memoir, Buseyisms. Gary transports you on a laugh-out–loud journey through the crazy twists and turns of his rise to fame, his descent into drug addiction, and his trip to the ‘other side’ after a near-fatal motorcycle accident. Gary also shares untold stories of his militant upbringing, surviving cancer in the middle of his face, and fun behind the scenes stories of his most popular movies and television roles including: A Star Is Born, The Buddy Holly Story, Lethal Weapon, Point Break, Under Siege, The Firm, Entourage, Celebrity Apprentice, and more. Included in this book are dozens of personal photographs from Gary’s early years up until now.
 
