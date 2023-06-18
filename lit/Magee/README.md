@@ -1,0 +1,1 @@
+## notes on Confessions of a Philosopher: A Personal Journey Through Western Philosphy From Plato to Popper
