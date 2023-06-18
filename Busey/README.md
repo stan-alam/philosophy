@@ -148,7 +148,88 @@ Okay. What’s ‘three-button’?”
  He pointed to the third button on my shirt, then—boom—whipped a swift jab faster than the strike of a rattlesnake, landing his fist on the third button just at my sternum. “If you don’t listen, I’ll three-button ya right here, and you won’t be able to breathe for five minutes.”
 Note: 8
 
+Note: 8
 
-Take a wild ride through the life and mind of Gary Busey in his new hilarious, uplifting, tell-all memoir, Buseyisms. Gary transports you on a laugh-out–loud journey through the crazy twists and turns of his rise to fame, his descent into drug addiction, and his trip to the ‘other side’ after a near-fatal motorcycle accident. Gary also shares untold stories of his militant upbringing, surviving cancer in the middle of his face, and fun behind the scenes stories of his most popular movies and television roles including: A Star Is Born, The Buddy Holly Story, Lethal Weapon, Point Break, Under Siege, The Firm, Entourage, Celebrity Apprentice, and more. Included in this book are dozens of personal photographs from Gary’s early years up until now.
+9. CHANGE
+ Creating Happiness And New Guiding Energy
 
-Gary is a living testimony to the resilience of the human body and spirit. In his simply written but profound memoir, he shares his Basic Instructions Before Leaving Earth to help others, who may be going through similar things, to realize that it is possible to survive challenging life events and come out a happy champion.
+
+The bikers turned their headlights on our faces, screaming, “Play ‘Louie Louie’!” They forced us to play “Louie Louie” over and over for two hours straight. Finally, I told my bandmate Ronnie, “You know what? I feel like trash fish caught in a net here. We should call ourselves Carp.” And so the band changed its name to Carp.
+
+
+Carp’s record was released on the spot. I felt an incredible feeling when I heard our song on the radio for the first time. All our hard work had finally paid off. Up until now, Judy had been supporting us working as an executive secretary. I hoped this record deal would bring in enough money so I could start supporting her.
+
+Nine months later, on June 15, 1971, William Jacob Busey entered the earth’s atmosphere. This change was great. Jake brought a sense of joy to me that I’d never felt before. He was the sweetest little person I had ever encountered, with a perpetual smile and an exceptionally playful nature.
+
+10. PLAY
+ Please Laugh At Yourself
+
+
+ mentioned it to David. “There may have been Clearlight in the grapefruit juice,” David casually mentioned. Clearlight is acid, a.k.a. LSD.
+ When I got to the set, I was tripping.
+
+ blood, too. I’m so sorry about this.”
+ A minute went by, then Chief Dan put his hand on my right thigh and laughed. “Don’t worry. I know how to play the game.”
+ As I peaked on acid, I got a great sense of relief from Chief Dan. It was as if I had tapped into the universal truth of humanity with his words. They sparked a revelation: “Life is a game to play.” The acid didn’t wear off until later that night, but honestly, it was a good trip.
+
+I have Native American
+
+11. FORGIVE
+ Finding Ourselves Really Giving Individuals Valuable Energy
+
+
+ moved my family to a nice, middle-class home on Covello Street in Canoga Park. I knew Mom would be proud of what I had accomplished. Dad not so much. Nothing I did made Dad proud.
+
+
+Jack Elam playing my dad and a pre–Luke Skywalker Mark Hamill playing one of my brothers,
+
+You are so handsome! Now I know where Gary gets his good looks.” My dad turned bright red and flashed a massive smile aimed directly at me.
+ That was the first time in my life Dad ever smiled at me.
+
+
+ Dad liked to barbecue with friends. They’d drink beer and tell war stories. One day while Dad was barbecuing, he told his best buddy Don Moon that he accidentally killed a young father, mother, and child in the war. Dad was inebriated, so he didn’t realize my brother, David, was listening. When David told me what he heard, I saw Dad in a whole new light. It came to me Dad was still at war, right here in Tulsa, and I was his enemy. I became even more frightened of him.
+
+
+ explained my experiences as best I could. After twenty-nine years, it felt good to finally have Dad express interest in something I had to say. It felt like a father and son reborn. Dad finally accepted me!
+
+“He said, ‘I wish I had it to do over again with Gary.
+
+“He had too much Native American pride.”
+ Having that special time with Dad on his visit to California was a blessing. I got to see him in a whole different light. Even though he never asked, I forgave him for what he did to me. I understood he was a victim of war, suffering from post-traumatic stress disorder after killing that family. 
+
+
+ ### 12. DEATH
+ **Don’t Expect A Tragedy Here**
+
+. Not long after my episode of Gunsmoke, the show was canceled after eighteen years on the air, which gave me the honor of being the last guy to die on Gunsmoke.
+
+
+ ### 13. ARTIST
+ **A Real Tower In Seeking Truth**
+
+ was Teddy Jack. He continued to call me Teddy Jack as long as I knew him. Later, he would even name his firstborn son Teddy Jack after my character on the Mazeppa show and name me Teddy Jack’s godfather.
+
+Make You Feel Good,” under the pseudonym Teddy Jack Eddy (which later earned me a gold record).
+
+
+Then I had an epiphany. Leon never thought about what he was doing; it always came naturally from his heart.
+
+## 14. MUSIC
+ **Magnificent Unique Sound Inviting Creativity**
+
+```ascii
+
+Take a wild ride through the life and mind of Gary Busey in his new hilarious, uplifting, tell-all 
+memoir, Buseyisms. Gary transports you on a laugh-out–loud journey through the crazy twists and 
+turns of his rise to fame, his descent into drug addiction, and his trip to the ‘other side’ 
+after a near-fatal motorcycle accident. Gary also shares untold stories of his militant upbringing, 
+surviving cancer in the middle of his face, and fun behind the scenes stories of his most popular 
+movies and television roles including: A Star Is Born, The Buddy Holly Story, Lethal Weapon, 
+Point Break, Under Siege, The Firm, Entourage, Celebrity Apprentice, and more. Included in this book 
+are dozens of personal photographs from Gary’s early years up until now.
+
+Gary is a living testimony to the resilience of the human body and spirit. 
+In his simply written but profound memoir, he shares his Basic Instructions 
+Before Leaving Earth to help others, who may be going through similar things, 
+to realize that it is possible to survive challenging life events and come out a happy champion.
+```
