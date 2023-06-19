@@ -1,5 +1,5 @@
-```ascii
-Plato of Athens
+
+## Plato of Athens
 
 Early Christian writers, who found much of Plato’s work compatible with their own beliefs, interpreted this as parthenogenesis. 
 Note: 1
@@ -34,7 +34,88 @@ started to underwrite the Spartan war effort. This assistance made it possible f
 
 404. The Athenian navy had been annihilated the previous year, leaving Athens vulnerable. The Spartans besieged the city into starvation and then imposed the rule of the Thirty.
 
-```
+He witnessed the famous Athenian democracy at its most extreme and irresponsible, with the people thinking only of their own power, not what was good for the city as a whole.
+
+They enthusiastically voted for the invasion of wealthy Sicily; they relished Alcibiades’s victories but banished him after a single defeat. In a vote that was probably unconstitutional, and was certainly ill advised, they condemned eight of their ten elected generals to death after a sea battle in 406;
+
+In later years Plato was never sympathetic to democracy, though toward the end of his life he came to recognize that the people must be allowed to have a say in the political life of their community; in his youth he saw the disastrous effects of rule by people who were not political experts, and he always clung to the ideal of the truly knowledgeable political leader.
+
+lines, and Plato always insisted that unity and concord were crucial for political stability, and that stability was crucial for people to be able to flourish and fulfill themselves. “Could we describe anything as worse for a community,” asks Socrates in Plato’s Republic, “than what tears it apart and destroys its unity?
+
+Athenian families, his father’s family even traced their lineage back to the god Poseidon. Plato, however, was, or came to be, dubious about such claims.9 The family’s wealth was based, as was typical of the long- established families of the Athenian elite, on their ownership of land. 
+
+. Plato had two older brothers, Adeimantus and Glaucon, and an older sister, Potone. Adeimantus was probably born in 430 and Glaucon the following year, since both were old enough to take part in a battle outside the borders of Attica in 409. A poem addressed to them began: “Sons of Ariston, godlike offspring of an eminent sire.”10 Potone was born around 426, and then Plato in 424 or 423. Potone married a man called Eurymedon, and in or around 407 gave birth to a son, Speusippus, who would become a famous philosopher in his own right and succeed Plato 
+
+The ancient biographers and others tell us that he was named “Plato” because he was fat or stocky (Greek platus) or perhaps “broad” in the sense of having a capacious intellect. Once they had concluded that “Plato” was a nickname,
+
+It was a perfectly normal name.11 Besides, the common practice of naming a son after his grandfather was reserved for the eldest son. So the future philosopher’s full name was Plato, the son of Ariston, of the deme Collytus and the tribe Aegeis
+
+Plato. This bust is a Roman copy of the head of a statue that was set up in the garden of the Academy, the school that Plato started, soon after his death. Altes Museum, Berlin.
+Note: Go see it
+
+All full Athenian citizens belonged to a hereditary deme and tribe. A deme was a parish—there were 139 in Attica—but a person might belong to a deme without living there. He was registered in the deme in which his ancestor had been enrolled at the time of the reform of Athenian society along democratic lines at the very end of the sixth century,
+
+. And for administrative purposes all Athenian citizens belonged to one of ten tribes; fellow tribesmen took part in various civic and religious rituals together, and fought side by side on the battlefield. All ten tribes were named after legendary local heroes and kings.
+
+remembered as the father of Theseus (and after whom the Aegean Sea is named).
+ Plato was probably born on the island of Aegina in the Saronic Gulf, southwest of Athens. The island was taken over by the Athenians in 431, the first year of the Peloponnesian War. They expelled the islanders, who, out of long hostility toward Athens, were on good terms with the Spartans, Athens’s enemies, and they resettled the island with their own citizens, including Ariston.
+
+Under Athenian law women could not own property, and all of Perictione’s sons were still underage, so she was married off to her uncle Pyrilampes. This was not considered incestuous;
+
+perfectly normal way of ensuring that the estate stayed in the family. So Plato never knew his natural father, and Pyrilampes was to all intents and purposes his father.
+
+It was while Pyrilampes was on one such mission for Athens that he acquired his famous peacocks; they were not the first that had ever been seen in Athens—earlier ambassadors to the east had also received them as gifts—but they were still delightfully exotic. 
+
+**Perictione had a son called Antiphon, born around 421**. We know virtually nothing of the activities of this half-brother. Plato makes him the narrator of his dialogue Parmenides, which presumably indicates an interest in philosophy, but nothing seems to have come of it, and in later life he was more interested in horse breeding than abstract thinking—and some of Parmenides is highly abstract.
+
+
+**Glaucon** certainly, and Adeimantus probably, had political ambitions, but neither of them became prominent.
+
+Glaucon also features in conversation with Socrates in one of the Socratic works written by Plato’s contemporary, Xenophon, and was credited with writing dialogues featuring Socrates. Whether genuine or not, none of these dialogues has survived. Adeimantus was close enough to Socrates to be among the onlookers at his trial in 399, along with Plato. 
+
+He was a well-known author of poems and plays and an admirer of the Spartan constitution and way of life, which he praised in a couple of works.14 In terms of the main polarity of ancient Greek politics in the Classical period, oligarchy versus democracy, he was an oligarch,
+
+in history was assured when he became one of the leaders, and probably the ideologue, of the Thirty Tyrants. Pyrilampes, however, was a democrat. In wartime years, it is easy for politics to divide a family.
+
+
+Thirty set up a board of ten men to administer Piraeus, the port of Athens, and Charmides was one of the ten. Along with Critias, he had been suspected of involvement in an abortive 
+
+oligarchic coup in 415, and after that episode he fled the city and was condemned to death in absentia. I have suggested that the main trigger for the oligarchic revolution of 411 was that the rich were being reduced to relative poverty, and we know that Charmides had suffered in this way.15 He was still in exile in 411, otherwise it seems likely that he would have been involved in the oligarchic coup that took place then.
+
+
+Athenian upper-class men did not usually marry for love but rather for the political and commercial connections their wives could bring to the family.
+
+Ironically, however, in the city-state he imagined in Laws, he would make it compulsory for a man to marry between the ages of thirty and thirty-five.
+ 
+
+
+ We have no direct evidence for Plato’s early education, but it would have conformed to Greek norms. Education was designed above all to socialize children—to indoctrinate them into the values of their society. It is not surprising, then, that Plato was in many ways a man of his times. In real life he kept slaves—five house slaves are mentioned in his will, and each of his farms would have been worked and run by a half dozen or so slaves, as all farms of any size were—and 
+
+imaginary societies of Callipolis and Magnesia (those, respectively, of Republic and Laws) both have institutional chattel slavery, but the punishments that Plato imagined for wrongdoing by slaves in Magnesia were harsher than those that existed under Athenian law.
+
+Note: Harsh punishment
+
+Magnesia women are full citizens alongside men, in reality he seems to have thought women 
+Note: 2
+
+inferior to men. He held that if men undertook the activities that were traditionally reserved for women, they would prove to be better at them; that men are more intelligent than women; that plundering the corpses on a battlefield is the mark of a womanish mind;
+
+that a cowardly man would be reborn in his next incarnation as a woman; that women are more secretive and devious than men. Even in Laws women seem to be debarred from higher political offices. To put it at its harshest: Plato was less interested in women as women than he was in their potential to be men.
+
+
+home were taught in a sporadic fashion, for a few weeks or a few years, by three kinds of teacher. A grammatistēs taught them reading, writing, and arithmetic, and made them study and even learn and recite substantial chunks of epic poetry, since Homer, especially, was regarded as a fount of wisdom in many areas (see figure 1.3). Plato would later criticize the expectation that by studying poetry people would be provided with role models to emulate; in his view, expressed especially in Republic, the gods and other characters described by Homer and others were often too corrupt to act as exemplars.
+Note: Plato does not like folks rote memorizing homer to only quote the bard.
+
+The other two schools were more specialized and more for elite children. A kitharistēs taught music, singing, dancing, and the lyric poets, 
+
+paidotribēs supervised their physical education at a gymnasium (likely to be publicly owned) or “palaestra” (“wrestling-ground,” likely to be privately owned), to prepare them for all forms of athletic contest and for warfare. 
+
+ biographies appear to know the names of Plato’s teachers: a certain Dionysius was his grammatistēs,19 Dracon of Athens and Metellus of Acragas were his kitharistai, and Ariston of Argos was his paidotribē
+
+Plato sketched this aspect of a child’s education in Protagoras:21
+Note: Protagoras sophist
+
+To Plato’s mind, however, this was a hit-or-miss system: the eminent Athenian statesmen Themistocles and Pericles were good men (let’s suppose) and brought their sons up right, but the sons still turned out to be unexceptional.22 Why? Is excellence (virtue, aretē) not teachable? This question may even have been the spur that made Plato a philosopher. It is prominent in Meno and Protagoras and puts in an occasional appearance elsewhere.
 
 Plato of Athens
 ===============
