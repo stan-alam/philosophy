@@ -1,5 +1,7 @@
 ## Notes on Exploring Bhagavad Gita
 
+“Work for work's sake, not for yourself. Act, but do not be attached to your actions.“
+
 ```text
 This is potentially one of the most significant books to emerge in recent times on
 how to read the G…t, for it provides a clear way forward to make coherent sense
