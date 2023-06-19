@@ -38,7 +38,7 @@ He witnessed the famous Athenian democracy at its most extreme and irresponsible
 
 They enthusiastically voted for the invasion of wealthy Sicily; they relished Alcibiades’s victories but banished him after a single defeat. In a vote that was probably unconstitutional, and was certainly ill advised, they condemned eight of their ten elected generals to death after a sea battle in 406;
 
-In later years Plato was never sympathetic to democracy, though toward the end of his life he came to recognize that the people must be allowed to have a say in the political life of their community; in his youth he saw the disastrous effects of rule by people who were not political experts, and he always clung to the ideal of the truly knowledgeable political leader.
+In later years Plato was never sympathetic to democracy, though toward the end of his life he came to recognize that the people must be allowed to have a say in the political life of their community; in his youth **he saw the disastrous effects of rule by people who were not political experts, and he always clung to the ideal of the truly knowledgeable political leader.**
 
 lines, and Plato always insisted that unity and concord were crucial for political stability, and that stability was crucial for people to be able to flourish and fulfill themselves. “Could we describe anything as worse for a community,” asks Socrates in Plato’s Republic, “than what tears it apart and destroys its unity?
 
@@ -55,7 +55,7 @@ Note: Go see it
 
 All full Athenian citizens belonged to a hereditary deme and tribe. A deme was a parish—there were 139 in Attica—but a person might belong to a deme without living there. He was registered in the deme in which his ancestor had been enrolled at the time of the reform of Athenian society along democratic lines at the very end of the sixth century,
 
-. And for administrative purposes all Athenian citizens belonged to one of ten tribes; fellow tribesmen took part in various civic and religious rituals together, and fought side by side on the battlefield. All ten tribes were named after legendary local heroes and kings.
+. And for administrative purposes all Athenian citizens belonged to one of **ten tribes**; fellow tribesmen took part in various civic and religious rituals together, and fought side by side on the battlefield. All ten tribes were named after legendary local heroes and kings.
 
 remembered as the father of Theseus (and after whom the Aegean Sea is named).
  Plato was probably born on the island of Aegina in the Saronic Gulf, southwest of Athens. The island was taken over by the Athenians in 431, the first year of the Peloponnesian War. They expelled the islanders, who, out of long hostility toward Athens, were on good terms with the Spartans, Athens’s enemies, and they resettled the island with their own citizens, including Ariston.
@@ -75,7 +75,7 @@ Glaucon also features in conversation with Socrates in one of the Socratic works
 
 He was a well-known author of poems and plays and an admirer of the Spartan constitution and way of life, which he praised in a couple of works.14 In terms of the main polarity of ancient Greek politics in the Classical period, oligarchy versus democracy, he was an oligarch,
 
-in history was assured when he became one of the leaders, and probably the ideologue, of the Thirty Tyrants. Pyrilampes, however, was a democrat. In wartime years, it is easy for politics to divide a family.
+in history was assured when he became one of the leaders, and probably the ideologue, of the Thirty Tyrants. **Pyrilampes, however, was a democrat. In wartime years, it is easy for politics to divide a family.**
 
 
 Thirty set up a board of ten men to administer Piraeus, the port of Athens, and Charmides was one of the ten. Along with Critias, he had been suspected of involvement in an abortive 
@@ -103,10 +103,10 @@ inferior to men. He held that if men undertook the activities that were traditio
 that a cowardly man would be reborn in his next incarnation as a woman; that women are more secretive and devious than men. Even in Laws women seem to be debarred from higher political offices. To put it at its harshest: Plato was less interested in women as women than he was in their potential to be men.
 
 
-home were taught in a sporadic fashion, for a few weeks or a few years, by three kinds of teacher. A grammatistēs taught them reading, writing, and arithmetic, and made them study and even learn and recite substantial chunks of epic poetry, since Homer, especially, was regarded as a fount of wisdom in many areas (see figure 1.3). Plato would later criticize the expectation that by studying poetry people would be provided with role models to emulate; in his view, expressed especially in Republic, the gods and other characters described by Homer and others were often too corrupt to act as exemplars.
+home were taught in a sporadic fashion, for a few weeks or a few years, by three kinds of teacher. A **grammatistēs taught them reading, writing, and arithmetic, and made them study and even learn and recite substantial chunks of epic poetry, since Homer,** especially, was regarded as a fount of wisdom in many areas (see figure 1.3). Plato would later criticize the expectation that by studying poetry people would be provided with role models to emulate; in his view, expressed especially in Republic, the gods and other characters described by Homer and others were often too corrupt to act as exemplars.
 Note: Plato does not like folks rote memorizing homer to only quote the bard.
 
-The other two schools were more specialized and more for elite children. A kitharistēs taught music, singing, dancing, and the lyric poets, 
+The other two schools were more specialized and more for **elite children**. **A kitharistēs** taught music, singing, dancing, and the lyric poets, 
 
 paidotribēs supervised their physical education at a gymnasium (likely to be publicly owned) or “palaestra” (“wrestling-ground,” likely to be privately owned), to prepare them for all forms of athletic contest and for warfare. 
 
