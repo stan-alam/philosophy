@@ -117,6 +117,52 @@ Note: Protagoras sophist
 
 To Plato’s mind, however, this was a hit-or-miss system: the eminent Athenian statesmen Themistocles and Pericles were good men (let’s suppose) and brought their sons up right, but the sons still turned out to be unexceptional.22 Why? Is excellence (virtue, aretē) not teachable? This question may even have been the spur that made Plato a philosopher. It is prominent in Meno and Protagoras and puts in an occasional appearance elsewhere.
 
+gave him some notion of critical thinking, since the dramas, though set in the legendary past, invariably raised social and political issues that were relevant to contemporary Athens. Tragic poets were considered “the teachers of Greece.”23 Plato was growing up at a time when the tragedian Euripides, the most philosophical of the playwrights, was at the height of his popularity.
+Note: Europides
+
+However, Plato would later criticize drama as a form of rhetoric that could make people believe certain things but could not impart knowledge.
+Note: in which work?
+
+Plato is said to have studied painting, but that does not seem likely: it was not generally an upper-class pursuit. At least two of the writers who perpetuate this information point to a passage of Timaeus as evidence that Plato knew about
+
+. But the story that he destroyed his early tragedies after his “conversion” to philosophy25 is such a cliché that we might be inclined to dismiss the whole set of tales as false, were it not for their plausibility. As a well-educated young man with literary aspirations, and also as a participant in symposia, it is very likely that he tried his hand at poetry. “I’ve had a kind of fascinated admiration for Homer ever since I was young,
+
+ has Socrates say in Republic, surely speaking for himself.26 And Plato certainly had a sense of the tragic; no one who reads the sequence of dialogues surrounding Socrates’s trial and death (Apology of Socrates, Crito, Phaedo) can have any doubt about that.
+
+
+Perhaps Plato felt that he was just too sane and rational to make a great poet.
+ 
+
+ shall not bring shame upon my sacred weapons, nor shall I desert the man beside me, wherever I stand in the line. I shall fight in defense of things sacred and secular, and I shall not hand on the fatherland lessened, but greater and better as far as I am able and together with all. And I shall be obedient to those who exercise power reasonably at any time, and to the laws currently in force and any reasonably put into force in the future. If anyone destroys these, I shall not give him allegiance as far as is in my power and together with all. And I shall honor the ancestral religion.
+
+
+his life, he never had to work to make money but lived off the labor of those who worked his estates. He was even said to have been the first not to charge for his teaching, though that distinction properly belongs to Socrates.
+
+It was customary in Athens for well-off private citizens to be required to help out with public expenses. There was no regular income tax, but there were a few wealth
+
+occasional (for instance, raising money for warfare), but liturgies—between 97 and 118, depending on the year—were required every year.
+
+Some were occasional (for instance, raising money for warfare), but liturgies—between 97 and 118, depending on the year—were required every year.
+
+
+trierarch,
+
+maintain a trireme (a warship) for a year, the hull of which was provided by the state. This extremely costly liturgy was undertaken on one occasion by Pyrilampes’s son Demos, which gives some idea of the wealth that Pyrilampes brought to Plato’s family when he married Perictione. The most expensive festival liturgy was the chorēgia, which involved recruiting a chorus for a dramatic or choral festival and paying for the trainers, the training, the rehearsals, the costumes, the scenery, and the equipment. This was the liturgy that Plato was called on to perform; 
+
+The state assumed that Plato had at least several hundred drachmas to spare, and by complying with the order, Plato agreed. He was among the two thousand or so most wealthy men in Athens, truly a member of the top 1 percent. Even if we believe the story that Plato’s liturgical expenses were covered by someone else,
+
+The bulk of his wealth seems to have come from two large farms in the countryside north and east of Athens, one inherited from his family and one that he bought himself.
+
+I grant Artemis her freedom. I leave four house-slaves: Tychon, Bictas, Apollonides, and Dionysius. Household furniture as set down in the inventory, of which Demetrius has a copy. I owe no one any money.
+
+Euclides the mason owes him the not inconsiderable sum of three minas (300 drachmas, perhaps $20,000 today
+
+translated such pride into snobbery. In a brilliant stretch of Republic,37 he first bemoans the fact that the kind of people who should take up philosophy are seduced away from it by the lure of worldly power and then vilifies the unsuitable people who, attracted by the prestige of philosophy, claim the field for themselves. He concludes with this savage little portrait:
+
+impression these interlopers give is any different from that of a small, bald metalworker who’s come into some money? He’s just got himself out of debtors’ prison, he’s had a bath and is wearing brand-new clothes and a bridegroom’s outfit, and he’s about to marry his master’s daughter because she’s hard up and has no one to look after her.
+Note: Vulgarian
+
+
 Plato of Athens
 ===============
 
