@@ -162,6 +162,23 @@ translated such pride into snobbery. In a brilliant stretch of Republic,37 he fi
 impression these interlopers give is any different from that of a small, bald metalworker who’s come into some money? He’s just got himself out of debtors’ prison, he’s had a bath and is wearing brand-new clothes and a bridegroom’s outfit, and he’s about to marry his master’s daughter because she’s hard up and has no one to look after her.
 Note: Vulgarian
 
+By the same token, people from the working class in the fictional city-state of Republic are rigidly excluded from a share in government, on the grounds that their occupation makes it impossible for them to have the kind of lofty and
+
+long-term thoughts that are appropriate to political leaders. Plato mellowed somewhat in his later years, but, under the influence in the first instance of his childhood upbringing, he shared not just his class’s pride in their wealth and education but also their snobbery about those who had to work for a living. In this sense, too, he was a man of his times.
+
+Since he believed that the gods were only ever good, he came to reject stories of their lying, cheating, vindictiveness, and so on. “We’d better not admit into our city the story of 
+
+Greek religion was based on practice rather than belief. There was no sacred text to whose provisions one had to adhere, no commandments or creed in which one had to believe in order to be “orthodox,” no Church to coordinate practice and develop doctrine. Religion was largely a matter of the appropriate performance of ritual. But ritual also rested 
+
+on a bedrock of beliefs: that the gods exist, that they provide for us, that they know more and are more powerful than us, and that they can be moved by sacrifice and prayer.
+
+petition them, it should not be for worldly prosperity, but only be for help in what is, essentially, one’s own doing. We have an example:39
+
+Zeus and his extended Olympian family—but also of God in the singular. A few other thinkers before and during his lifetime did the same; the lineage began with Xenophanes of Colophon in the sixth/fifth century and included another follower of Socrates called Antisthenes. Plato was partaking in and giving impetus to a movement that would culminate only a few decades after his death in the monotheism
+
+the Stoics, who saw the traditional gods more as the Semitic religions today see angels—as agents of God’s providence for the world. Plato sets off in that direction, especially in the astral theology he outlines in late dialogues such as Timaeus and Laws, where the heavenly bodies are gods that—in an almost astrological fashion—intermediate between God and humankind.
+
+________________________
 
 Plato of Athens
 ===============
