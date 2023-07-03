@@ -1,5 +1,11 @@
 ## Epicurean Reading List
 
+<a>
+  <img src="https://github.com/stan-alam/philosophy/blob/master/Greek/Epicurean/GuideToLife/images/2023-07-03%2012_18_56-PICT0006.JPG%20%E2%80%8E-%20Photos.png" width="80%" height="80%">
+</a>
+
+
+
 ```text
 Tending the Epicurean Garden Paperback – April 30, 2014
 by Hiram Crespo  (Author)
