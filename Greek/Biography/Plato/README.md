@@ -178,6 +178,58 @@ Zeus and his extended Olympian family—but also of God in the singular. A few o
 
 the Stoics, who saw the traditional gods more as the Semitic religions today see angels—as agents of God’s providence for the world. Plato sets off in that direction, especially in the astral theology he outlines in late dialogues such as Timaeus and Laws, where the heavenly bodies are gods that—in an almost astrological fashion—intermediate between God and humankind.
 
+
+their human nature, not in transcending it. But Plato believed that human nature has a divine as well as a bestial aspect—that we are attracted to what is true as well as to what is pleasant—and that it is our purpose to develop the divine in us, to become godlike ourselves.
+
+He acknowledges, however, that there are few who will be interested in undertaking the hard, private work involved in such a path; for most people, religion will remain the public worship of the Olympian deities through festivals and sacrifices. But God is the paradigm of goodness and moral perfection, and this will inspire at least
+
+few people to aim to be as like him as is possible for incarnate beings. Our souls are immortal, and the point of philosophy is to purify the soul until it is capable of achieving communion with God and breaking free of the constant cycle of reincarnations. Anyone who manages to be a philosopher in three successive incarnations will never have to be incarnated again.
+
+Plato’s mature thoughts about God and religion represent some of his most sincerely held views. Plato’s God is a rational being, who guides the universe for the good of his creatures, especially human beings, and has left clues that this is what he does—clues that are visible to those with eyes to see. But despite being, as it were, Reason personified, Plato’s God is capable of arousing the kind of emotional response that
+Note: 2
+
+constitutes religious feeling, just because he does us nothing but good. Anything bad in our lives is our own fault, not God’s. God is “the best kind of soul, that takes care of the universe as a whole and guides it along its path.”
+
+though traditional, were not mainstream. His talk of assimilation to God as the goal of life echoes an ecstatic and salvationist thread in Greek religion, in which one transcends the material world by purging oneself of impurities and becomes, in effect, a god oneself.
+
+Plato this state is achieved not by practices such as drug taking or trance-dance (famously practiced in Plato’s day by the Corybantes of Asia Minor), but by rational inquiry. He agrees that it takes a kind of “god-given madness” to transcend the material world and glimpse the “Plain of Truth,”44 but the work of trying to turn that glimpse into a permanent awareness is largely rational work.
+
+
+Republic, he has Socrates attending a festival in Piraeus. But at the same time, he was also urging himself and others not to carelessly accept conventional beliefs (this is a recurrent theme in his work) but to go farther and deeper, and even to attempt to bridge the gulf between humanity and immortality.
+
+It is “proximity [to transcendent Forms] that gives a god his divine qualities,”45 and Plato constantly holds out the promise that a true philosopher can also get to know and contemplate the Plain of Truth, where the Forms subsist.
+
+This is not a literal place but Plato’s way of expressing the idea that there is more to the world than our five senses can detect.
+
+Aristoxenus of Taras: Plato was physically repulsive, morally corrupt, and intellectually dishonest.
+
+He was a pederast, a whoremonger, and a slave to tyrants, despite being hungry for political power. None of his work is original; all is taken from other thinkers. There is no way of proving Aristoxenus wrong, but surely his vehemence betrays him.
+
+Note: 3
+
+The first was the cruelty of the Thirty Tyrants, and the second was the condemnation of Socrates by the restored democracy.
+
+In a momentous shift, people were beginning to read to themselves, rather than having a slave read a work out loud to them.
+
+
+Almost all Republic was taken from Protagoras of Abdera and Timaeus from Philolaus of Croton; Plato borrowed heavily from the Pythagorizing playwright
+
+Epicharmus of Cos; Plato was not allowed to attend meetings of Pythagorean groups in case he stole the ideas; he got the notion of writing his works as dialogues from Sophron the writer of mimes, whose skill at characterization he also imitated; he copied the work of his fellow Socratics Antisthenes and Aristippus and, more inexplicably, that of the mathematician Bryson of Heraclea.
+
+The “Presocratics” is the name given to a miscellaneous group of thinkers—proto-scientists, philosophers, even the occasional mystical prophet—who lived and worked,
+
+learning from X” to “plagiarizing X.” Plato rarely simply borrowed an idea from any of his teachers, even Socrates, without transforming it and putting it to work in his own way and in the context of his own philosophical principles.
+
+before Socrates. What unites them is the attempt to give a systematic account of the whole known universe and all its major features, from the setting of the stars to the rising of the Nile. In fact, despite the name, the kind of scientific work they were doing continued during and well past Socrates’s lifetime. Among the Presocratics, Plato mentions by name Thales of Miletus, Heraclitus of Ephesus, Parmenides and Zeno of Elea, Empedocles of Acragas, Pythagoras of Samos (and the Pythagoreans), and Anaxagoras of Clazomenae. This is a fairly complete roll call of the leading lights,
+Note: 4
+
+Presocratic doctrines without naming names. However, his failure to mention by name Democritus of Abdera, a very important thinker and prolific writer who was still working and writing in his lifetime, is a perennial puzzle, first mentioned by Diogenes Laertius. It is clear that Plato had read widely in the Presocratic treatises, and he was presumably also acquainted with the summary of the Presocratics’ and others’ theories prepared by the polymath Hippias of Elis toward the end of the fifth century.
+Note: 5
+
+What Plato chiefly took from the Presocratics was the basic principle that the world is not the playground of capricious gods but an ordered system that is comprehensible by the human mind and which therefore can be laid bare by reason and argument, rather than by the senses and faith. Otherwise, he is generally critical of their scientific work.
+Note: 8
+
+
 ________________________
 
 Plato of Athens
