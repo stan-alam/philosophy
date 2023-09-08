@@ -201,9 +201,9 @@ It is “proximity [to transcendent Forms] that gives a god his divine qualities
 
 This is not a literal place but Plato’s way of expressing the idea that there is more to the world than our five senses can detect.
 
-Aristoxenus of Taras: Plato was physically repulsive, morally corrupt, and intellectually dishonest.
+**Aristoxenus of Taras: Plato was physically repulsive, morally corrupt, and intellectually dishonest.**
 
-He was a pederast, a whoremonger, and a slave to tyrants, despite being hungry for political power. None of his work is original; all is taken from other thinkers. There is no way of proving Aristoxenus wrong, but surely his vehemence betrays him.
+**He was a pederast, a whoremonger, and a slave to tyrants, despite being hungry for political power.** None of his work is original; all is taken from other thinkers. There is no way of proving Aristoxenus wrong, but surely his vehemence betrays him.
 
 Note: 3
 
@@ -212,7 +212,9 @@ The first was the cruelty of the Thirty Tyrants, and the second was the condemna
 In a momentous shift, people were beginning to read to themselves, rather than having a slave read a work out loud to them.
 
 
-Almost all Republic was taken from Protagoras of Abdera and Timaeus from Philolaus of Croton; Plato borrowed heavily from the Pythagorizing playwright
+Almost all Republic was taken from **Protagoras of Abdera and Timaeus from Philolaus of Croton;** Plato borrowed heavily from the Pythagorizing playwright
+
+### Protagoras of Abdera, is this the same Protagoras ... "man is the measure of all things ...etc"?
 
 Epicharmus of Cos; Plato was not allowed to attend meetings of Pythagorean groups in case he stole the ideas; he got the notion of writing his works as dialogues from Sophron the writer of mimes, whose skill at characterization he also imitated; he copied the work of his fellow Socratics Antisthenes and Aristippus and, more inexplicably, that of the mathematician Bryson of Heraclea.
 
@@ -228,6 +230,150 @@ Note: 5
 
 What Plato chiefly took from the Presocratics was the basic principle that the world is not the playground of capricious gods but an ordered system that is comprehensible by the human mind and which therefore can be laid bare by reason and argument, rather than by the senses and faith. Otherwise, he is generally critical of their scientific work.
 Note: 8
+
+Several of them were materialists who suggested that all the furniture of the world was derived from a single underlying substance or from a few such substrates.
+Note: 8.26.23 1
+
+. Anaximenes of Miletus, for instance, made air his primary cosmic substance and claimed that everything else was the result of the thickening or thinning of air. Plato calls this kind of notion childish and even atheistic;3 in his view it is not the case that the only things that exist are bodies and their properties. In Phaedo, Plato gives Socrates a kind of intellectual autobiography, which might as well be his as Socrates’s. He says that Socrates was excited by the work of Anaxagoras, who claimed that Mind was the creative and driving force of the cosmos, but found that he failed to follow up this insight and, like Anaximenes and others, relied on purely material and mechanical causes.4 In Timaeus, the
+Note: 2
+
+, Plato gave that kind of proto-scientific idea a more sympathetic hearing,5 but on the whole he found little of value in it and thought they were delving into areas where the truth was unknowable.
+
+Note: 3
+
+**Parmenidean**
+
+ Heraclitean called Cratylus and a Parmenidean called Hermippus.7
+
+Aristotle names no Parmenidean teacher but says that Cratylus was actually Plato’s earliest teacher.
+Note: 4
+
+Anything I might call “beautiful” may not be beautiful to someone else, or in a different context, or at a different time, so how do we know how to use the term? It must, Plato thought, be because there exists an entity that acts for us as a 
+Note: 5
+
+permanent paradigm of Beauty. From the Eleatics, Plato learned the distinction between appearance and reality, on which he hung his crucial epistemological distinction between belief and knowledge.
+
+Note: Important
+
+but Plato learned much more than this from Pythagoreans, as we shall see in chapter 6. Plato’s most noteworthy act of homage to Pythagoreanism was his making a fictional Pythagorean, **Timaeus of Locri**, the spokesman of his account of the physical universe, as a 
+Note: 6
+
+Pythagorean ideas, for instance, seems to date from after his visit in the 380s to southern Italy, which was the center of Pythagoreanism. Indeed, Diogenes Laertius dates Plato’s acquaintance with the two Pythagoreans who most influenced him to this visit. But it seems safe to say that Plato was steeping himself in Presocratic work from an early age, and that his agreements and disagreements with them fundamentally affected his thinking.
+ 
+Note: 08.29.23
+
+
+ By the third quarter of the fifth century, a new breed of professional teachers began to arrive in Athens to provide a kind of higher education. Many of the sophists (as they came to be called, though, like “Presocratics,” the generic label obscures specific differences) were itinerant teachers,
+**Note: Protogorous...man is measure of all things**
+
+ subjects—from mathematics to martial arts, and from history to music—with particular topics more popular in particular places. Much of their teaching was less theoretical than practical. This is the most important way in which their contemporary, Socrates, differed from the sophists: if Plato is to be trusted, Socrates had an interest in ethical and metaphysical theory as well as developing an effective method of argument and enquiry. Socrates also was not a professional; he took no money for his teaching because he felt that the most important things he had to pass on were encouragement and inspiration, not information or the key to worldly success.
+Note: 02
+
+The kind of success the sophists were claiming to teach was importantly different from the kind that had been valued before, which was based on charisma—on the aristocratic values of military prowess, eloquence, athleticism, benefaction, and good looks.
+
+Possession of this cluster of qualities gave a man aretē, excellence; under the influence of the sophists, the meaning of the word shifted to mean political and moral excellence—kinds of excellence that did not depend on blood or breeding but had to be earned and worked for. The sophists did not initiate this revolution, but they were foremost in perpetuating 
+Note: Shelf help
+
+The sophists latched onto and made extensive analytical use of the opposition between nature (physis) and convention (nomos—the same word means both official “law” and unofficial “custom”). Did the gods exist in reality or were they human inventions? How much trust can one put in man-made laws, seeing that they are readily changed and repealed, and differ from culture to culture?
+**Note: Great conversations**
+
+the stronger state or individual will rule the weaker, or should the strong restrain themselves and deny their self-interest in accordance with conventional justice? But does this not make human law a kind of tyrant? And so on. Plato discusses and problematizes many of these issues in his dialogues, and the nature/convention distinction underlies many of his arguments.
+Note: 4
+
+Prodicus of Ceos is in a nearby room with his admirers. Apart from these three, other sophists appear or are mentioned in the dialogues: Gorgias of Leontini, Polus of Acragas, Thrasymachus of Chalcedon, Evenus of Paros, Damon of Oa, and the brothers Euthydemus and Dionysodorus of Chios.
+
+Note: 5
+
+excitement that the sophists aroused was offset by a degree of suspicion, especially among those with conservative values. “Any decent Athenian gentleman,” claims Anytus in Plato’s Meno, “will do a better job of improving a young man than the sophists.”11 They were feared as slick—as deinos, a word that simultaneously meant “clever” and “frightening.
+Note: 5
+
+Gorgias of Leontini, did nothing to allay such fears when he likened speech to a powerful drug that operates by a kind of deceit or bewilderment to stir or pacify emotions and change men’s minds.12 In an episode of edgy comedy in his play Clouds, produced in 423,
+
+### Aristophanes portrayed a debate between Unjust Argument and Just Argument, in which Unjust Argument
+Note: 6
+
+The most famous
+**Note: articulating something wrong/incorrect,well.**
+
+orator of them 
+Note: 7
+
+It seems that around 430 a decree, proposed by a man called Diopeithes, was passed in Athens to the effect that “anyone who did not pay due respect to divine phenomena or who
+
+ offered to teach others about celestial phenomena should be impeached.”13
+Note: 7
+
+It was the start of the Peloponnesian War, the Athenians were in the grip of a pandemic, and they turned against science and toward religion.
+Note: Drink a little salt with water for cholera?
+
+In itself, Diopeithes’s decree was aimed at Presocratic scientists rather than sophists, and was perhaps a way to get at Pericles, the leading Athenian statesman of the time, who counted Anaxagoras among his close friends. But the case seems not to have come to court, and Anaxagoras simply left Athens to avoid trouble.
+Note: 09.05.23.
+
+On the other hand, it is certain that another of Pericles’s associates (a kinsman by marriage), the Athenian musicologist and political theorist Damon, was banished “for seeming to be too much of an intellectual.”15 And Diagoras of Melos, a poet of otherwise little consequence, fled into exile to avoid a trial for atheism.
+
+Note: 1.
+
+exacerbated by the facts that most of the sophists were not Athenian and that they were making themselves outrageously rich, but a few near-prosecutions do not add up to persecution, and wealthy, leisured Athens was still a congenial place
+
+ for artists and intellectuals. It would have been harder for Socrates and Plato to have thrived elsewhere. Intellectuals got into trouble only on those extremely rare occasions when they were felt to be politically undesirable or (what came to the same thing) to be in danger of offending the gods. The legal instruments that were available to be used against them were either Diopeithes’s decree or the more flexible charge of impiety—the charge that would be brought against Plato’s teacher, Socrates.
+
+
+Gorgias and the first book of Republic, where his main interlocutor is the sophist Thrasymachus. As far as Plato was concerned, there was no point to intellectual studies unless they led to an understanding of what the good is for human beings. But other sophists, such as Protagoras, held perfectly conventional moral and political positions, and Plato, preceded by Socrates, was delighted to learn from the sophists that political science was a science, something that should be left to experts rather than amateurs.
+
+Note: 3
+
+information rather than as active co-searchers after knowledge—and, second, with their assumptions and arguments. They did not deepen understanding of political and moral issues because they were concerned solely or chiefly with teaching people how to be successful in the context of current politics and morality.
+Note: They would quote from literature.
+
+standards. As Protagoras put it, “Man is the measure of all things,” and part of what he meant is that there is no absolute right or wrong, but only what seems to an individual or state to be right or wrong.
+Note: Mind is a pendilum. Swings from sense and nonesense. Jung
+
+We determine our own truths. Hence, unlike many earlier wise men of Greece, the sophists did not claim divine authority for what they were saying but spoke in their own names.
+Note: 5
+
+Plato thought that education should also train character because a person with a bad character will use the intellectual attainments gained from the sophists for bad purposes. The sophists held debating contests and took up any position they could render plausible, while Plato was looking for moral and 
+Note: 6
+
+**Why should the ability to speak well qualify a person to be a political leader?** A rhetorician does no more than win others over to his point of view; he persuades people rather than giving them the truth. Should the criterion not be whether or not he possesses political expertise, which in Plato’s terms is the ability to benefit all members of a community?
+Note: 7
+
+The difference of approach is neatly summarized in a statement of Isocrates of Athens, one of the fourth-century heirs of the sophists, that “plausible belief about useful things is far superior to exact knowledge of useless things.”16
+Note: 8
+
+.”16 
+
+celebrates the accusation that philosophy as he understood it was impractical and useless. 
+
+and in Syracuse he made a famous attempt to demonstrate this.
+ Plato and Socrates
+ In Plato’s opinion, Socrates was “the best, the wisest, and the most just” person of his time,17 and he is said to have thanked his lucky stars that he was born in his time.18 I have suggested that Plato was introduced to him by his brothers; in fact, among the ancient 
+
+Apuleius of Madaurus says that it was his father, Ariston, who effected the introduction, since he was planning to hire Socrates as Plato’s tutor. But Ariston was long dead. Perhaps Apuleius meant to name Pyrilampes, Plato’s stepfather; but, still, it was in Rome and the provincial cities of the Roman empire in Apuleius’s day that rich men hired famous philosophers as private tutors for their sons, not in fifth-century Athens.
+
+ was famous enough by the time of Plato’s birth to have been one of the butts of Aristophanes’s satirical play Clouds, produced in 423. Although Socrates was not from the same social stratum as Plato’s family, he had married well and was a familiar figure in some quarters of Athenian high society.
+
+Note: 10. Apollo...arrows; used arrows to inflict disease on people
+
+Apollo being the god of prophecy as well as music. The ancient biographers are singularly unhelpful on the relationship between Socrates and Plato. They reflect the fact that it was important to both of them—to Socrates because now he had someone to carry on his work and to Plato because he had found his teacher. But most of the stories they tell either focus on Plato’s conversion to philosophy by Socrates, who persuaded him in one anecdote not to go and become a professional mercenary soldier,19 or stem from the tradition hostile to Plato and imply that Plato misrepresented Socrates’s teachings.
+Note: 09.07.23
+
+“They say that Socrates, after hearing Plato read Lysis, said, ‘What a lot of falsehoods the young man tells about me.
+
+Presocratic. We have the complete Socratic writings of two of his followers, Plato and Xenophon, but both of them
+Note: 02
+
+Plato’s Laches, for instance, we should not think that Socrates ever engaged the two Athenian generals, Laches and Nicias, on the topic of courage; he might have, but even so, Plato could not have been present at the conversation and no one recorded it. The conversation is Plato’s idea of what might have taken place had such a meeting ever occurred.
+Note: 3
+
+**Roman statesman and philosopher Cicero said that he “was the first to call philosophy down from the heavens, transfer it to society and even introduce it into people’s homes, and compel it to inquire about life and morality—about what things are good and bad.”21**
+
+### Actually, since the earliest sophists predate Socrates, it was they who first “called philosophy down from the heavens” (that is, broke away from Presocratic proto-scientific cosmology) and focused on politics and human ethics. Socrates, from this perspective, was part of a movement
+
+followed by the sophists and by the Presocratic thinker Democritus of Abdera; but it is probably safe to say that he was the most important element in that movement.
+ Aristotle’s summary of Socrates’s work is also useful:22 “Although he confined his inquiry to ethics and did not study the nature of the universe as a whole, he still sought within the moral sphere for the universal and was the first to concentrate his attention on definitions.” This is very much what we find Socrates doing in one set of Plato’s dialogues, and to a lesser extent in Xenophon’s accounts of Socrates as well. In Laches, for example, the issue is to define courage.
+Note: 04
+
+It is thanks to Socrates that philosophy became and remains inquisitive and self-reflective, whereas before his time it had been dogmatic. For Socrates, and then for Plato, philosophy was argument, not the production of untested and untestable grand ideas.
 
 
 ________________________
