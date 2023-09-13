@@ -373,8 +373,85 @@ followed by the sophists and by the Presocratic thinker Democritus of Abdera; bu
  Aristotle’s summary of Socrates’s work is also useful:22 “Although he confined his inquiry to ethics and did not study the nature of the universe as a whole, he still sought within the moral sphere for the universal and was the first to concentrate his attention on definitions.” This is very much what we find Socrates doing in one set of Plato’s dialogues, and to a lesser extent in Xenophon’s accounts of Socrates as well. In Laches, for example, the issue is to define courage.
 Note: 04
 
-It is thanks to Socrates that philosophy became and remains inquisitive and self-reflective, whereas before his time it had been dogmatic. For Socrates, and then for Plato, philosophy was argument, not the production of untested and untestable grand ideas.
+It is thanks to Socrates that philosophy became and remains inquisitive and self-reflective, whereas before his time it had been dogmatic. For Socrates, and then for Plato, philosophy was argument, **not the production of untested and untestable grand ideas.**
 
+Reason assures a seeker that the Forms exist, and then he might be able to sense their existence as well. Diogenes the Cynic once cast doubt on the existence of Forms: “I can see a table and a cup, but not tablehood and cuphood.” Plato replied: “That’s right, because you have the eyes with which to see a cup and a table, but not the mind with which to comprehend tablehood and cuphood.”23
+
+Note: Object oriented, much?
+
+. Everyone assumed, not unreasonably, that the fundamental influence on a person’s character was the society in which they lived.
+Note: Important
+
+that is, would develop the virtues appropriate to their ways of life. And Aristotle’s Politics is expressly a continuation of his Nicomachean Ethics: thorough ethical inquiry entails also describing the state that will best allow its citizens to flourish.
+
+“Socrates said that it was not those who held the scepter who were kings and rulers, nor those who were elected by unauthorized persons, nor those who were appointed by lot, nor those who had gained their position by force or fraud, but those who knew how to rule.”24 In this single sentence, he dismisses in turn the claims of monarchy,
+Note: 09.08.23
+
+oligarchy, democracy, and tyranny to be legitimate constitutions, in favor of government by experts, however many there may be.25
+Note: 1
+
+When a teacher sees his role not just as imparting information but also encouraging a 
+Note: 09.11.23
+
+, at a certain point that teacher becomes a friend (or an enemy). We can only guess what form their association took. It is likely that Plato and others met regularly as a group, presided over by Socrates. They would not only discuss and develop theories but, insofar as the work was intended to change their lives, they would undertake practical exercises based on their convictions and then report back on their experiences to Socrates and the rest of the group.
+
+Note: 01.
+
+; but Xenophon seems to hint at such group work when he has Socrates say:27 “In 
+Note: 09.12.23
+
+company with friends, I open and read from beginning to end the books in which the wise men of the past times have written down and bequeathed to us their treasures, and when we come across anything good we take it for ourselves; and we regard our mutual friendship as great gain.”
+
+Note: 01
+
+Of the twenty-eight dialogues that I confidently count as authentic, Socrates is absent from only
+Note: 03
+
+ When Antisthenes, another follower of Socrates, was asked what he gained from philosophy, he replied that it was the ability to converse with himself.30
+Note: 04
+
+It is better for me to come to the realization that a belief I hold is false than to carry on acting on 
+Note: 05
+
+Everyone always does what they think best for themselves, but without such examination, and ultimately without knowing what goodness is, people are liable to mistake where their advantage lies. And it turns out that what is always and everywhere good for a person is moral excellence—the virtues justice, courage, prudential wisdom, piety, and self-control.
+Note: 05
+
+Plato became and remained throughout his life opposed to materialism and mechanistic causation. As a result of his reflecting on the sophists, he became and remained throughout his life opposed to skepticism about the possibility of knowledge, to relativism, and to the commodification of wisdom. He insisted, with Socrates as his model, that a teacher should not take money for his teaching. 
+Note: 07
+
+We know the most about Aeschines of the deme Sphettus (also sometimes known as Aeschines Socraticus, to distinguish him from a famous politician of the later fourth century), Antisthenes,
+Note: 08
+
+Crito, Chaerephon, and Chaerecrates, however, who were certainly Socrates’s followers, were much the same age as Critias. Nevertheless, Critias probably belongs among the people who knew and admired Socrates and were attracted to certain features of his work but were never really members of the inner circle. It was young men whom Socrates chiefly sought, those who would be the future leaders of Athens.
+Note: 09
+
+Aeschines and Xenophon wrote about Socrates, but Antisthenes, Aristippus, Phaedo, and Euclides—and Plato, of course—not only wrote but also founded schools or fresh lines of Socratic work.
+Note: 11
+
+Antisthenes was the most influential: he taught Diogenes of Sinope, the first true Cynic and one of the most remarkable figures from ancient Greece; Diogenes then taught Crates, and Crates taught Zeno of Citium, the founder of Stoicism, so it was because of Antisthenes that the Cynics and the Stoics, throughout their long histories, thought of themselves as descendants of Socrates.
+Note: 1
+
+When Aristippus returned to his native Cyrene, in North Africa, he founded a school that promoted moderate pleasure as the goal of life, combined with skepticism about the possibility of objective knowledge of anything, owing either to the limitations of the human mind or to things being too indeterminate for us to get 
+Note: 11
+
+a proper grasp on them. 
+Note: 1.
+
+And Euclides founded the Megarian school, members of which did important work in logic and the philosophy of language, as well as Socratically inspired ethics; the school went through changes but lasted until the end of the fourth century. We know too little about Phaedo’s school in Elis to be sure how to characterize it, but he seems, like Antisthenes, to have promoted philosophy as a way of life and a form of therapy rather than just a way of tackling abstract concepts. These were not “schools” in the sense that members had to toe the party line; they may not even have had
+Note: 14
+
+pleasure is not an out-and-out good. Hedonism is also attributed to Socrates in a papyrus fragment of a dialogue33—could it have been written by Aristippus?—but the text is too disjointed for us to be certain what kind of hedonism is involved. Antisthenes, however, appears to have been firmly anti-hedonistic.
+Note: 9
+
+Antisthenes claimed that only the pleasures of hard work are worthwhile, or even that he would rather go mad than feel pleasure. Meanwhile, Aristippus held that avoidance of trouble of any kind is pleasant and is the goal of life.
+
+but he immediately goes on to say that he could wish that this were not so, since so much pleasure cannot be good for one.34 Later sources report that Antisthenes claimed that only the pleasures of hard work are worthwhile, or even that he would rather go mad than feel pleasure. Meanwhile, Aristippus held that avoidance of trouble of any kind is pleasant and is the goal of life.
+ What is important about this for Plato’s biography is its demonstration that Plato was not, nor did he take himself to be, the only “true” Socratic. He had worked with and alongside other Socratics, and after Socrates’s death, when the group dispersed
+Note: 14
+
+. They were not writing only dialogues. Antisthenes, for example, who had studied with Gorgias, also wrote speeches, systematic philosophical treatises, and a commentary on Homer. As well as his Socratic works, Xenophon wrote history, biography, essays and treatises on various topics, and a fictional account of the education of an ideal prince. As for their Socratic works, none of them was writing the history of philosophy; all of them were using Socrates as a literary device to express their own thoughts and puzzles.
+
+Note: Important
 
 ________________________
 
