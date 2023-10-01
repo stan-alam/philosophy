@@ -452,6 +452,198 @@ Note: 14
 . They were not writing only dialogues. Antisthenes, for example, who had studied with Gorgias, also wrote speeches, systematic philosophical treatises, and a commentary on Homer. As well as his Socratic works, Xenophon wrote history, biography, essays and treatises on various topics, and a fictional account of the education of an ideal prince. As for their Socratic works, none of them was writing the history of philosophy; all of them were using Socrates as a literary device to express their own thoughts and puzzles.
 
 Note: Important
+ --
+Socratics, if Socrates’s position on pleasure was that pleasure or its lack is a natural or God-given guide as to what is beneficial for a person. All
+
+the views I sketched in this section are compatible with that. Suppose, then, that Socrates’s role was to formulate generalizations such as this one, and then leave it up to his students to develop particular theories from them. Later, we will find Plato doing much the same in the Academy. No Socratic was just a spokesman for Socrates; there was no such thing as Socratic orthodoxy.
+
+Note: 09.14.2023
+
+. The ancient biographies exaggerated these disagreements into rivalry and personal enmity. Socratic conversation, as I have said, involved people bouncing ideas off one another; through their books, the Socratics were, in effect, having just such conversations with one another and with their readers. 
+Note: 09.15.2023
+
+“Would Socrates approve? Is this notion consistent with his principles?” We actually have a trace of this. Aristotle preserves a response by 
+Note: 01
+
+Aristippus to a “rather dogmatic assertion” by Plato: “But our mutual friend would never have spoken like that.”35
+ On the whole, dialogue seems a better explanation than hostility, though it is possible that there were some clashes of personality. Aeschines and Aristippus were particular friends, and perhaps others were particular enemies. Antisthenes the ascetic might have found Aristippus’s hedonism so distasteful that there was genuine rancor.
+Note: 02
+
+Xenophon might have been thinking of Aristippus when he accused some people of gaining a few scraps of wisdom from Socrates for free and then selling them to others at a high price,
+Note: Important
+
+because Aristippus was reportedly the first of the Socratics to charge
+Note: Important
+
+The title of Antisthenes’s dialogue Sathōn was said to be a vulgar pun on Plato’s name (Platōn): sathōn means “prick.” In a sense, then, Plato was a rival of his fellow Socratic writers. This was not a sordid rivalry, seeking to attract students for monetary gain: like Socrates, Plato did not charge for his teaching. It is just that it is typically ancient Greek to proclaim your superiority to others in your field. Artists did it, and so did historians and comic poets; why not philosophers?
+
+for a course of lectures. The title of Antisthenes’s dialogue Sathōn was said to be a vulgar pun on Plato’s name (Platōn): sathōn means “prick.” In a sense, then, Plato was a rival of his fellow Socratic writers. This was not a sordid rivalry, seeking to attract students for monetary gain: like Socrates, Plato did not charge for his teaching. It is just that it is typically ancient Greek to proclaim your superiority to others in your field. Artists did it, and so did historians and comic poets; why not philosophers?
+Note: 05
+
+But, despite their differences, the Socratics were involved in a common enterprise, the importance of which outweighed any disagreements. 
+Note: 06
+
+They refused to let philosophy die with the physical death of their mentor.
+
+Note: Important..
+
+Above all, they denied that the things that people usually take to be good, such as wealth and social status, were truly good, and held that only virtue truly fulfills a person’s potential as a human being (procures them eudaimonia, happiness or well-being). Like everyone else, I aim in all I do for my own happiness;
+Note: Important
+
+the Socratics are saying that, properly understood and properly practiced, the virtues are my salvation.
+Note: Important
+
+(according to Plato, at any rate), to be virtuous is to align oneself, as microcosm, with the universe, the macrocosm: “Wise men say that cooperation, love, order, discipline, and justice bind heaven and earth, gods and men.”
+Note: Important
+
+Lysias, could arouse hostility toward Aeschines simply by saying how odd it was that a Socratic could have become involved in financial irregularities.38
+Note: Important
+
+men.”37 I suspect
+
+men.”37 I suspect that these “wise men” are Plato himself and his fellow Socratics. They were so well known for their extraordinary emphasis on virtue that an outsider, the Athenian speechwriter Lysias, could arouse hostility toward Aeschines simply by saying how odd it was that a Socratic could have become involved in financial irregularities.38
+ So the Socratics were in pursuit of the truth, especially
+Note: 08
+
+in the
+Note: 09.18.2023
+
+ world and its principles improves one’s life and makes one a better person; they understood that respect for the truth is the foundation of all morality, and they sought rational and valid arguments that stood a chance of yielding the truth of any matter; they explored the relationship between body and soul (insisting that soul is the highest and noblest part of a human
+Note: 09.19.2023
+
+They were not just inventing the discipline that we now call philosophy but also making sure that it took a Socratic direction. We can trace this process in some detail in Plato, but we do not have enough of the work of his colleagues to be sure of their
+Note: 01
+
+. We have the complete Socratic works of Xenophon, but, although the furrow that he plowed was certainly Socratic, it does not have the philosophical depth of Plato’s work; nor, apparently, did Aeschines’s publications.
+Note: 09.19.2023
+
+They flooded the market with their books, writing scores of philosophical works in the forty or so years after Socrates’s death. They were attempting to sweep aside anyone else’s claim to be an educator, and so we see Plato’s Socrates taking on sophists,
+Note: 09.20.2023
+
+rhetoricians, poets, and anyone who was held to be an expert in anything—anyone who offered a different set of goals for people than those he held to be important. Even in the next generation, members of Plato’s school, such as Aristotle and Heraclides of Pontus, wrote dialogues (though they did not feature Socrates): it had become one of the main ways to present philosophy. There are traces of the writing of dialogues, or bits of dialogue, by some of the sophists, but the Socratics made the genre their
+Note: 01
+
+Plato began writing in the 390s. He was probably not the first of the Socratics to write dialogues, but it is not certain which of his colleagues deserves the credit. Nor was Plato the inventor of the
+Note: 02
+
+dialogue form: in a lost early work, On the Poets, Aristotle, a fairly close witness and a good researcher, attributes that to someone who was not a Socratic, a certain Alexamenus of Teos.39 We can be reasonably certain that neither Plato nor anyone else started to write Socratic dialogues until after Socrates’s death in 399: why would they bother when Socrates was still alive?
+Note: How is aristotle a good researcher?
+
+? Part of the point of the Socratics’ dialogues was to make the Athenians wonder why they had ever put him to death.
+Note: Important
+
+Socrates as a character in their works, and often the lead character, when every reader knew that this was a man who had been put to death by the authorities. To take the plainest example: in Plato’s Euthyphro we (tragically) see Socrates discussing piety while waiting to be indicted for impiety, and we (ironically) hear Euthyphro’s confidence that Socrates will win his case.
+Note: Important. 09.27.2023
+
+
+ Plato exploited these possibilities with more than just his Socrates character, and never more than when including the murderous oligarchs Critias and Charmides
+Note: 01.
+
+(Charmides) discussing self-restraint and self-knowledge, or when having Socrates talk to two Athenian generals, Nicias and Laches, about courage, when both had been responsible for setbacks that had helped seal Athens’s defeat in the Peloponnesian War.
+Note: 3
+
+opprobrium
+
+Alcibiades, Polemarchus, Aristotle of Thorae, Phaedrus, Eryximachus. Plato’s original readers would have read the dialogues with the fates of these people in the forefront of their minds. So at the end of First Alcibiades,
+Note: 03.
+
+Alcibiades
+
+
+ Aristotle recognized the books Plato and the rest were writing as a new genre of literature, which he called Sōkratikoi logoi, “Socratic discourses,”
+Note: Important
+
+ mimes of Sophron
+Note: 03.
+
+Aristotle, writing perhaps sixty years after Socrates’s death and drawing on what he had been told during his years in the Academy, believed that the dialogues were a kind of fiction, except that they were usually populated by actual historical people. 
+Note: Important
+
+The Sōkratikoi logoi shared themes and scenarios, confirming that the writers kept in touch with one another and were engaged in a common enterprise. For example, in addition to the two dialogues named Alcibiades that are included in the Platonic corpus, four other Socratics wrote dialogues with the same name, featuring Socrates in conversation with (and trying to tame) his beloved. Both Xenophon and Plato wrote a Symposium; both Euclides and Plato wrote a Crito;
+Note: 04
+
+Antisthenes
+Note: 05
+
+Aspasia,
+Note: 6
+
+Aeschines
+Note: 07
+
+featuring larger-than-life versions of the intellectual former courtesan
+Note: 05
+
+wife of Pericles, the leading Athenian statesman in the third quarter of the fifth century. For all that Plato’s great fame has eclipsed the others, we should remember, as we track his career as a Socratic writer, that he was not alone.
+Note: 06
+
+tenuous indication of this is that at Apology of Socrates 39c–d Plato has Socrates tell the assembled Athenians that after his death his young followers would continue his work of reproaching them for living wrongly.
+ 41.See, e.g., Republic 516e–517e, Gorgias 486a–b, Gorgias 521e–522a, Meno 94e, Theaetetus 172c–d.
+ 32.Athenians: Aeschines, a certain Antiphon, Antisthenes, Apollodorus, Aristodemus, the brothers
+
+From the age of thirty, he could make himself available for selection for senior office,
+Note: 07
+
+The system was that the Council (five hundred men) prepared motions for the Assembly (up to six thousand men), and once the Assembly had come to a decision, the Council then instructed the senior officers to carry it out or formed subcommittees to do the work. It was normal for aspiring young politicians to give speeches in the Assembly; hence the importance of the rhetorical training supplied by the sophists.
+
+Note: 10..11
+
+ inclined to add, the expertise) to play a political role, for which they received no stipend. They were happy to do so—to trade monetary capital for political capital. Moreover, aristocratic families tended to have networks of friendships with their peers in other Greek city-states, which made them the natural choice to conduct foreign policy. Under the democracy, many official positions were subject to sortition—that is, to a lottery that was applied to a long list of volunteer candidates from each of the ten tribes. Such positions were often prestigious rather than powerful, but in both the military and financial fields there were posts that were filled by annual election because it was believed that these posts required expertise,
+Note: Important
+
+Glaucon,
+
+Charmides, Euthydemus (owner of one of the first libraries in Athens
+Note: 09.29.2023
+
+ Republic, Plato imagines the corruption of a politically ambitious young man “from a wealthy and noble family.”2 Aristophanes, the writer of comedies, vulgarly confirms the point when he describes politicians as “stretch-arsed”:3 it was
+Note: 01
+
+The blame game was in full swing between rich and poor. The oligarchs of 411 had wanted to negotiate an end to the war even then, and since the city now, seven years later, had to surrender unconditionally, they felt that they held the moral high ground. The stage was set for the regime of the Thirty Tyrants.
+Note: The 30 tyrants
+
+the ten democratically elected generals were deposed on Spartan orders, and a temporary board was formed of five “Overseers” to act as an interim administration; Critias, Plato’s mother’s cousin, was one of the five. In September the Spartans imposed the oligarchy of thirty men. A council of five hundred was appointed, which was to be permanent rather than annually chosen (as the democratic Council had been), and its members came from a select list of only a thousand men, rather than from the entire 
+Note: 03
+
+Its job was to ratify the measures proposed by the Thirty, and the Thirty also gave this council supreme judicial power, removing it from the popular courts. Piraeus received, for the first time, its own administration, not least because it was known as a democratic bastion: it was placed in the hands of a board of ten. The Eleven (the Athenian officers responsible, with the aid of public slaves, for arrests, prisons, and executions) were freshly chosen henchmen, supported by a volunteer police force of three hundred armed horsemen, and all other offices were distributed to oligarchic sympathizers.
+Note: Wtf
+
+Having restructured the administration to their liking, the Thirty set about their program of the moral rearmament of Athens. It is Plato, in Letter 7, who tells us that this is what the Thirty were up to: “I thought they would govern the state by leading it from an unjust way of life into the path of justice.” This is surprisingly confirmed by the speechwriter Lysias, who was unremittingly hostile to the oligarchs—not just because he was a democrat, but also because he only just escaped arrest and execution by the Thirty, while his brother was imprisoned and killed.
+Note: 04
+
+
+ Money was critically short, however. The Thirty chose to raise it by killing or banishing the men of property among their opponents and then reselling their property to other Athenians—an ugly
+Note: 05
+
+They go down in Greek history as the first to make fellow citizens live in fear of the pre-dawn raid.7 Fifteen hundred people were killed in just a few weeks, while others fled into exile.
+Note: 06
+
+Athenian resistance to the Thirty proved almost miraculously effective. After only a few months, the rebels were able to take over Piraeus, the port of Athens, and turn it into a democratic stronghold. The Thirty marched against the 
+Note: 09
+
+. Among the seventy or so casualties on the oligarchs’ side were Plato’s cousin Critias and his uncle Charmides. The rest of the Thirty fled. In late September 403, the democrats processed in splendor and solemnity from Piraeus back to Athens to sacrifice in gratitude to Athena on the Acropolis. The state returned to democracy after little more than a year.
+Note: 10
+
+Socrates in their schemes by getting him to arrest a man called Leon of Salamis, a prominent democrat whom they wanted to execute. Socrates refused, but Leon was still killed. “I recoiled from the abuses of the time,” Plato says.8 He was still attracted to a political career, however; perhaps he could work within the restored democracy.
+ 
+Note: 11. Plato still had hope for democracy.
+
+iniquitous
+
+Socrates is guilty of not acknowledging the gods the city acknowledges, and of introducing other new deities. He is also guilty of subverting the young men of the city. The penalty demanded is death.”
+Note: 13.
+
+Xenophon, for instance, includes among the primary subjects Socrates investigated “what is a state, and who is a statesman; what it is to wield political power and who is capable of doing so.”11 Since many of his followers were known for their oligarchic and pro-Spartan sympathies, and since it is commonly believed that students gain their ideas from their teachers, Socrates became tarred with the same brush.
+Note: 09.30.2023
+
+. This is what they would have reminded the jurors. Socrates was known to be unsympathetic to democracy and its egalitarian values.
+Note: the democacy of that time was nothing close to egalitarian.
+
+sortition,
+
+who wielded power only because they were rich.
+Note: Plutocracy.
+
 
 ________________________
 
