@@ -644,6 +644,105 @@ sortition,
 who wielded power only because they were rich.
 Note: Plutocracy.
 
+Alcibiades,
+
+éminence grise
+Note: 10.01.2023
+
+. This is not to say that the charge of impiety was, in some Stalinist sense, just a cover for a political show trial. Religion and society were so intertwined that to charge Socrates with impiety was already to accuse him of being an uncommitted citizen, and to charge him with corrupting Athenian youth was to accuse him of undermining the next generation of democratic statesmen.
+Note: 10.01.2023
+
+
+ My trial will be equivalent to a doctor being prosecuted by a confectioner before a jury of young children. How do you think a doctor would defend himself if he were up before that kind of court? The prosecutor would argue, “Children, the defendant has committed numerous crimes against your honored selves. He has ruined the youngest among you with his surgery and cautery and baffled you with compresses and nauseants; he gives you harsh potions and forces you to go without food and drink. He’s not like me: I’m always giving you all kinds of delicious treats.”
+Note: 01.
+
+
+ So Plato withdrew not only from Athenian politics but from practical politics altogether.
+Note: 02.
+
+“idiot”—an idiōtēs, one who is concerned solely with his own affairs.
+Note: 04.
+
+because he has to kowtow to the powers that be, who in democratic Athens were the people. At the same time, anyone who enters politics with a desire to do good soon realizes that he is on his own, faced with a hopeless task, 
+Note: 10.01.23
+
+quietism.
+
+Moreover, as Plato himself admits,18 the restored democracy in general exercised considerable moderation. In the short term, immediately after the fall of the Thirty, they allowed any of the Thirty or their sympathizers who had not already left the city to do so; it was only if they chose to stay that they would be put on trial
+Note: Important
+
+Plato did leave Athens for a while, however, even if not out of fear of suffering the same fate as Socrates. Diogenes Laertius tells us: “At the age of twenty-eight, according to Hermodorus, he withdrew to Euclides in Megara, along with some other Socratics.
+Note: 10.01.23
+
+. He spent these years, they say, seeking out the wise men of the Greek world and of foreign lands to broaden his knowledge and enrich his mind. The places he is supposed to have visited are Cyrene in North Africa (northeast Libya, in modern terms), to stay with the mathematician Theodorus; southern Italy, to learn from the Pythagoreans; Egypt, to study with learned priests;
+Note: •important**
+
+Phoenicia, to study with the Magi, the Zoroastrian priesthood. He did visit Pythagoreans in southern Italy, and we will come to that trip in its proper place, but otherwise there is, I believe, no truth to these tales.21
+Note: Important
+
+Wanderjahre
+
+
+ A constant facet of Greek orientalism was the idea that the priestly traditions of “the East” were the source of all wisdom. Plato was not the only Greek thinker to be credited with a sojourn in Egypt; the list includes Orpheus, Homer, Solon, and Pythagoras.
+Note: Important
+
+According to Christian writers, who admired and learned from Plato, he went there to study the books of Moses. The historically minded geographer Strabo of Amasea visited Egypt late in the first century bce and was shown the house where Plato had stayed.22 Even this does not make Plato’s sojourn there plausible because tales of clever Greeks gaining wisdom in Egypt worked both ways, enhancing the reputation of the Egyptian priests as well as the Greek visitor. 
+Note: 10.01.23
+
+, but the information is always trivial and of the kind that was common belief or hearsay: the dignity of their music, the antiquity of their legends, the place of mathematics in their educational system, their unwelcoming attitude to strangers, their opposition to cultural change. None of this has the depth that a personal visit would have provided.
+
+Note: 10.01.23
+
+The Corinthian War, as it is called, lasted from 395 until 386 and was an attempt by several Greek states—Boeotia, Corinth, Argos, and Athens—to curb the dominance of Sparta. It achieved exactly the opposite: at the end Sparta was more dominant than ever, having gained the backing of the Persian king.
+ Aristoxenus of Taras, writing about thirty years after Plato’s death, seems to have claimed that Plato fought in three engagements, at Tanagra, Corinth, and Delium.23 The fighting in the Corinthian War was bogged down around Corinth for some time (hence the name of the war), so that much is plausible, but there were no battles at Tanagra or Delium during this war.
+Note: Plato the soldier
+
+ So we have no way of knowing which specific battles Plato was involved in—given his wealth, he would have served as a cavalryman—but it is likely that he did see action in the mid to late 390s or early 380s.
+Note: ...
+
+Sometime in the 390s Plato began to write. This was the start of a writing career that was to last about fifty years. For the life of a writer, we want to know the order in which he wrote his books. It is not easy to do this in Plato’s case.
+Note: 10.01.23
+
+stylometric
+
+he talks of “cutting and pasting the various parts [of the work] into different relations with one another,” and, in an analogy with painting, of “erasing things and painting them in again.
+Note: 8mportant
+
+There is a long episode in the play where the heroine, Praxagora, outlines her plans for reforming Athens. They include the communistic sharing of property and the abolishment of marriage so that men can sleep with any woman they like and children will be brought up to regard all older men as their fathers—all sketched with great humor, of course.
+Note: 10.01.23
+
+pretty certain that Aristophanes was not getting the ideas from someone else, or from his own fertile imagination, because Aristotle tells us that Plato was the first to think along such radical lines.
+Note: 10.01.23
+
+and few scholars doubt that the first book of Republic was originally written as a stand-alone dialogue.
+Note: 10.02.2023
+
+Thrasymachus,
+
+Socrates confronts sophists: Hippias Major, Hippias Minor, Euthydemus, Protagoras, and Gorgias.
+ Another factor is the opening of Timaeus.
+
+The dialogue begins with what it claims is a summary of Republic (because the conversation of Timaeus is supposed to be taking place the day after the conversation of Republic), but it omits a great deal of Republic as we have it and the discussants are not those of Republic as we have it. Could it be a description of the proto-Republic? Yet another factor is that the Roman writer Aulus Gellius says that Xenophon wrote his The Education of Cyrus
+Note: Important
+
+Republic that was short enough to occupy only two papyrus rolls;31 at about ninety thousand words, the work as we have it would occupy three rolls. But on what authority does Gellius say this? He was writing in the second century ce, five hundred years later than Plato.
+
+Note: Important
+
+Third, there may be passages in some dialogues that are incomprehensible or make little sense without taking into account something from another dialogue, which is therefore earlier. Fourth, if we find a passage where a valid insight from another dialogue would have enabled Plato to clarify some point or other, we can assume that the dialogue without the insight is earlier than the one with 
+Note: 10.10.2023
+
+It is best to rely on stylometry (the statistical analysis of variations in literary style
+Note: Important
+
+There are two dominant approaches to interpreting Plato’s works: unitarianism and developmentalism. My tent is pitched in the latter camp. Unitarians come in various forms but essentially believe that Plato never changed his mind; he had worked out his total philosophy, at least in its broad outlines, before he started writing, and the dialogues are simply successive elaborations of aspects of this philosophy. Plato’s writing career spanned about fifty years, and the idea that his thought underwent no development seems implausible.
+Note: Two dominant approaches to Plato... Unitarian.... Develop...
+
+However, there is one respect in which unitarianism is correct. There are certain basic principles—together they make up what has been called Ur-Platonism—that underlie all of Plato’s metaphysical and epistemological work.
+Note: Ur.plaro
+
+First, he was always opposed to materialism, the doctrine that only bodies exist, and equally opposed to the kind of mechanistic explanations on which materialists rely. In a famous passage, Plato has Socrates pour scorn on the idea that the fact that he is sitting in prison is better explained 
+Note: 02.
 
 ________________________
 
