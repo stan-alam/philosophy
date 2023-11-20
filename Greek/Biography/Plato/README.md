@@ -744,6 +744,91 @@ Note: Ur.plaro
 First, he was always opposed to materialism, the doctrine that only bodies exist, and equally opposed to the kind of mechanistic explanations on which materialists rely. In a famous passage, Plato has Socrates pour scorn on the idea that the fact that he is sitting in prison is better explained 
 Note: 02.
 
+absolute values; if something is true, it is not just true for me, but for all time and all people, like 2 + 2 = 4. Plato’s metaphysics is essentially an inquiry into what is true and real. 
+Note: 10.11.2023
+
+Fourth, he was always opposed to skepticism, the idea that it is impossible to attain knowledge of anything.
+Note: Plato knows nothing
+
+At the very least, we have to understand what is truly valuable to us as human beings and try consistently to put that into practice. Actions are not good unless the person performing those actions is good; goodness is primarily a condition of the soul.
+ The doctrinal
+Note: 10.11.2023
+
+ documents that express ideas that were interesting Plato at the time of writing, or teaching tools intended to solicit reflection rather than give answers, or dramas written to entertain as well as instruct. Nor does the fact that quite a few of the arguments, especially in the shorter dialogues, are tailored for the particular interlocutor with whom Socrates is speaking mean that the arguments, or most of them, do not contain ideas that can be generalized.
+Note: 10.13.2023
+
+is true that each dialogue is, in the first instance, a self-contained product because that is how its original audience got to know it.35 Each of the dialogues has independent dramatic unity.
+Note: 02.
+
+more than to inquire, provoke, inspire, or teach. And it is true that the dialogue form is more suited to these objectives than to systematic philosophy.
+Note: 10.13.2023
+
+But Plato was not writing systematic philosophy. He did not write treatises; he dramatized arguments.
+Note: Continental philosophy vs analytical.
+
+The extent of the drama in the dialogues should not be overestimated. A dialogue could be properly described as a drama only if the action is carried forward by the idiosyncratic characters of the dialogue, as in a play.
+Note: 04.
+
+But that is not the case here: the action of the dialogues is carried forward more by ideas and arguments than by personalities. The dramatic message of Phaedo is conveyed by Socrates’s calmness in the face of his imminent death,
+Note: 05
+
+Callicles in Gorgias is too identified with his worldly desires to understand what Socrates is saying; Ion is too stupid, Euthyphro too blinkered, Hippias too self-important, Thrasymachus too irritable. One of the messages of Meno is that, although virtue may be teachable since it is a form of knowledge, it is not teachable to a Meno.
+Note: Damn meno.
+
+The message conveyed by the characterization of Callicles and others is that the truth is not attainable unless we shed the constraints of our personalities. This is not to say that the dialogues, or some of them, are not performable (though they would be rather dull). They do seem to have been performed at pretentious occasions
+Note: 07.
+
+in Roman times,36 but I very much doubt that Plato intended them to be performed. The meaning one finds in a play depends on the characters, their speeches, and their interactions; the meaning of a Platonic dialogue lies in the philosophy and in the attempt to get us, the readers, to think about things for ourselves.
+Note: 11.02.23
+
+Menexenus
+Note: Important
+
+succinct
+Note: Important
+
+portraits of various sophists, and for the way it shows Socrates tying Protagoras in knots; and Symposium because of the richness of its characterization and scene-setting, its defense of Socrates against the charge (which played a part at his trial) of having corrupted the notorious traitor Alcibiades (and so we might add First Alcibiades to the list), and the lightness with which it introduces the theory of Forms. Presumably the proto-Republic
+Note: Important
+
+Laws, Plato’s most down-to-earth work, was certainly written for a less philosophical audience than
+Note: Facist writings?
+
+Many of the dialogues would simply be incomprehensible or strike an audience as odd, unless they already had a background in this kind of thinking.
+Note: line of thinking
+
+Plato, then, did use his books to raise points of doctrine. Some of these ideas might be theories rather than doctrines.
+Note: 03
+
+For instance, the notion (which we have already met) that human happiness and fulfillment requires our assimilation to God occurs in Theaetetus, Timaeus, Republic, and Laws, and is hinted at in Symposium and elsewhere; and it dovetails perfectly with ideas such as the one proposed in Phaedo
+Note: 04
+
+practicing dying and being dead,” or the frequent suggestion that our true self is our rational mind, which is the divine part of
+Note: 05.
+
+it is a more effective way of getting readers to think for themselves than a treatise. At the end of the conversation with the young slave in Meno, Plato insists that the slave now has to work to understand the results of the conversation—to convert belief into knowledge.
+Note: 06.
+
+An idea, a thesis, a piece of doctrine is not owned by readers of a dialogue—it remains an idea of Plato’s alone—until they have argued it through for themselves. Each
+Note: Important
+
+Aristotle, who was with Plato in the Academy for twenty years, refers to the dialogues, he says “Plato believes that . . . ,” not “Plato floats the idea that. . . .”41 Or he also often says “Socrates believes
+Note: Important
+
+Plato encourages us to identify. Plato is not silent in the dialogues but a ventriloquist.
+
+Note: 07
+
+In Parmenides Plato levels a series of well-argued criticisms against his emblematic metaphysical theory, the theory of Forms. He argues that there are formidable weaknesses in the way that Forms themselves had been described (in dialogues such as Phaedo and Republic) and in the way that they had been said to interact with the things of this world. Did Plato see these criticisms as so devastating that he abandoned the theory of Forms or certain aspects of it? If that is so, we can take Parmenides to be a watershed, such that any dialogues that contain the theory of transcendent Forms must be earlier than it. On the other hand, if we find transcendent Forms in later dialogues, then perhaps Parmenides
+Note: 11.15.23
+
+perennial
+
+ vague and differing impressions of a writer’s style but instead on carefully chosen criteria that stand a chance of delivering objective results. Features of style that can reasonably be regarded as unconscious are therefore better than those that the writer has deliberately chosen. Early stylometric studies of Plato were spoiled above all by a failure to realize that skillful writers are aware of the weight of every word they put on the page.
+ For instance, whenever Plato avoided what phoneticists call “hiatus,” he chose to do so—and therefore could have chosen to do so at any point in his writing career. It is a feature 
+Note: 01
+
+
+
 ________________________
 
 Plato of Athens
