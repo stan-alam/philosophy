@@ -827,6 +827,28 @@ perennial
  For instance, whenever Plato avoided what phoneticists call “hiatus,” he chose to do so—and therefore could have chosen to do so at any point in his writing career. It is a feature 
 Note: 01
 
+Plato’s contemporary Isocrates was the master of hiatus avoidance, and in some of his dialogues Plato followed suit, although not with as much rigor as Isocrates.
+ Happily, however, more recent
+Note: 11.21.2023
+
+Sophist, Statesman, Timaeus, Critias, Philebus, and Laws. The same series of tests also revealed another stylistic cluster, consisting of First Alcibiades, Charmides, Gorgias, Meno, Phaedo, Phaedrus, Protagoras, Republic, Symposium, and Theaetetus. That leaves twelve dialogues unaccounted for: Apology of Socrates, Cratylus, Crito, Euthydemus, Euthyphro, Hippias Major, Hippias Minor, Ion, Laches, Lysis, Menexenus, and Parmenides.
+Note: Works
+
+There are, however, indications that Laws was a work of Plato’s old age. Aristotle tells us that it was later than Republic, which we could have guessed anyway, because in Laws Plato makes unmistakable references to Republic.44 There is an anachronistic reference in the first book of Laws to the re-annexation of the southern Italian town of Locri by Dionysius II of Syracuse, which happened in 356 after he had been driven from Syracuse by Plato’s friend and student, Dion. Plutarch tells us that it was a work of Plato’s old age,45 and in the dialogue Plato himself stresses more than once the old age of 
+Note: 01. old age
+
+ **Philip of Opus.**
+**Note: Who is phil of opus... What math has he worked on¿**
+
+Finally, the three Letters that I accept as authentic all date from the 350s, the last full decade of Plato’s life, and they are stylistically on a par with Laws and the rest of the members of this cluster. Laws, then, was one of the last books Plato wrote. That 
+Note: Three letters
+
+Laws cluster. Sophist and Statesman are the first two books of a projected trilogy; Plato intended to define first a sophist, then a statesman, and finally a philosopher, but Philosopher was never written.48 The opening of Sophist connects the dialogue with Theaetetus: the conversation of Sophist is supposed to take place the day after the conversation of Theaetetus.
+Note: before continue...read 
+
+the theory of Recollection—that we do not get to know Forms; what we do, when we identify something in the world as, say, good, is remember or recognize the Form of goodness from a past disembodied existence, between incarnations, when we glimpsed the Plain of Truth, the homeland of Forms.
+Note: See some issues with this argument ...?
+
 
 
 ________________________
