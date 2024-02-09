@@ -849,7 +849,36 @@ Note: before continue...read
 the theory of Recollection—that we do not get to know Forms; what we do, when we identify something in the world as, say, good, is remember or recognize the Form of goodness from a past disembodied existence, between incarnations, when we glimpsed the Plain of Truth, the homeland of Forms.
 Note: See some issues with this argument ...?
 
+And the final group (Apology of Socrates, Cratylus, Crito, Euthydemus, Euthyphro, Hippias Major, Hippias Minor, Ion, Laches, Lysis, Menexenus), especially now that I have removed the maverick Parmenides from it,51 contains most of the dialogues that show Socrates confronting
+Note: 01.21.2024
 
+experts and demonstrating that they cannot come up with a universal definition of the core concept about which they claim expertise.
+Note: 2.
+
+ Peace of Antalcidas in 387/6. Symposium refers to the Spartan destruction of the city of Mantinea in 385/4, but more importantly, in an obviously ex post facto passage, one of the speakers recommends the establishment of a homosexual battalion, as the Thebans did in 378.52 So Menexenus was written in or around 386 (assuming that Plato was referring to an event that was fresh in his mind), and Symposium after 378.
+Note: 03.
+
+
+ Plato’s rival in education, Isocrates of Athens,
+Note: 02.07.24
+
+First, Helen refers to the Platonic idea, developed in Protagoras, that all five cardinal
+Note: 02
+
+ virtues (justice, self-control, courage, piety, and wisdom) are one, or at least mutually entailing, because they are all forms of knowledge; Helen was written sometime in the 380s or 370s.
+Note: 03
+
+, To Nicocles responds to what Isocrates perceived as personal attacks by Plato in Gorgias and Euthydemus; To Nicocles was written around 370.55 And the On the Sophists of another
+Note: 4.
+
+Alcidamas, written around 390, seems to have been on Plato’s mind when he composed Phaedrus.
+Note: 5
+
+ essences of things, are recollected from an earlier existence, which Phaedo takes for granted.
+Note: 06
+
+The theory of the three-part soul is expounded in Republic and Phaedrus and then taken for granted in Timaeus, Statesman, and Laws.
+Note: Soul
 
 ________________________
 
