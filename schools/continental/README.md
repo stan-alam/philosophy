@@ -478,5 +478,147 @@ This momentous reappraisal of the French humanist tradition was propelled by lar
 
 
 
+Many of these critical themes were implicit in Foucault’s early works Madness and Civilization (1961) and The Order of Things (1966). In the former, he attempted to show how the notion of reason in Western philosophy and science had been defined and applied in terms of the beings—the “other”—it was thought to exclude. In this respect, reason lent itself to the mistreatment and oppression of whomever society happened to classify as “devoid of reason” (the insane) in prisonlike asylums and later, in the 20th century, in tortuous psychological treatments. Madness and Civilization appropriately concluded with an homage to “the sovereign enterprise of unreason…forever irreducible to those alienations that can be cured, resisting by \[its] own strength that gigantic moral imprisonment which we are in the habit of calling…the liberation of the insane.”
 
+
+
+
+
+Foucault began The Order of Things by memorably citing an ancient Chinese scheme of classification, which Jorge Luis Borges (1899–1986) had used in his essay “The Analytical Language of John Wilkins” (1941):
+
+
+
+Animals are divided into: (a) belonging to the Emperor, (b) embalmed, (c) tame, (d) sucking pigs, (e) sirens, (f) fabulous, (g) stray dogs, (h) included in the present classification, (i) frenzied, (j) innumerable, (k) drawn with a very fine camelhair brush, (l) et cetera, (m) having just broken the water pitcher, (n) that from a long way off look like flies.
+
+
+
+The epistemological implications of this amusing parable seemed clear enough to Foucault: the conceptual schemes of Western philosophy and science, which generations of thinkers had laboured to create and justify, were no less arbitrary, no more “true.” The schemes of any age, what Foucault called “epistemes” or “discursive regimes,” strictly determine the extent of what can be said and what can be thought. Escape from their iron-clad rule is possible only in literature, or “writing” (écriture), and only during the brief periods, or “interstices,” when one set of epistemes shifts or gives way to another. (During his structuralist phase, Foucault frequently employed geological metaphors.) The shift, at about the turn of the 19th century, from the episteme of “representation” to the episteme of “man” was one such period. At these times, a “pure” kind of writing, unsullied by governing conceptual schemes, is possible, resulting in the well-known intellectual breakthroughs of figures such as the Marquis de Sade (1740–1814), Stéphane Mallarmé (1842–98), Nietzsche, Antonin Artaud (1896–1948), and others.
+
+
+
+
+
+Eventually, Foucault came to recognize that the structuralism by which he was influenced imposed its own conceptual constraints. According to the standard account, in his later work he shifted the focus of his analysis from language to power. In fact, however, he concentrated on a dual concept of his own devising, “power-knowledge” (pouvoir-savoir), by which he meant to indicate the myriad ways in which, in any age, structures of social power and governing epistemes reinforce and legitimate each other. (The integral relationship between psychiatry and mental asylums is one example of such mutual legitimation; the relationship between surveillance or discipline and the organization of prisons is another.) Foucault came to accept Nietzsche’s skeptical claim that “truth is the kind of error without which a certain species of life could not live.” But this ready embrace of Nietzsche’s cynicism naturally raised questions about the status of Foucault’s own discourse: in what sense could one say that his analysis of pouvoir-savoir was not simply one more discursive regime in the service of power? The problem of “peformative contradiction”—of a discourse that, while denying the existence of truth, implicitly claims truth for itself—was the basis of later critiques of post-structuralism (also called postmodernism) in philosophy by Jürgen Habermas and his followers (see below Habermas and critical theory).
+
+
+
+
+
+Derrida
+
+The other major representative of philosophical post-structuralism is Jacques Derrida (1930–2004), who burst onto the philosophical scene in 1967 with three important publications: Speech and Phenomena, Writing and Difference, and Of Grammatology. Unlike Foucault, who was chiefly concerned with the relationship between the humanistic disciplines and power, Derrida concentrated on the history of philosophy. Finding inspiration in Heidegger’s program of a “destruction of the history of ontology,” Derrida engaged in what he called a deconstruction of Western metaphysics.
+
+
+
+
+
+Derrida criticized the Western “metaphysics of presence” for its systematic tendency to emphasize or favour (“privilege”) concepts such as unity, identity, and totality over otherness, difference, and marginality. Especially pernicious was the tendency to conceive of linguistic truth as the “presence” of that which is spoken of through its representation in words. To the contrary, the ungrounded nature of meaning—the fact that meanings are not given by any natural connection with things in the world but only by their systematic relations with each other—ensures that the spoken-of is never fully “present” but instead endlessly mediated through an infinite chain of meanings. The Western conception of truth as presence, therefore, is impossible. Derrida’s concepts of différance—a neologism meaning both a difference (in space) and a deferring (in time)—and “dissemination” characterize the infinite character of meaning and the futility of attempts on the part of metaphysics to reach a point of finality or closure.
+
+
+
+
+
+One of the principal goals of deconstruction was to unravel the conceptual dualities, or “binary oppositions,” that had been endemic in Western metaphysics, according to Derrida, since the time of the ancient Greeks. Among them were mind versus body (or matter), nature versus culture, intelligible versus sensible, internal versus external, present versus absent, literal versus metaphorical (or figurative), and speech versus writing. In each of these oppositions, one member of the pair is assumed to be primary or fundamental, the other secondary or derivative. To deconstruct an opposition is to show how this assumption of primacy is contradicted or undermined by various aspects of the meaning of the text in which the opposition appears—and particularly by aspects of meaning that depend on figurative or performative uses of language. Thus it is commonly assumed that the opposition between “nature” and “culture” is absolute. But in reality it is a distinction that possesses meaning only within culture itself.
+
+
+
+
+
+Derrida cautioned that a mere reversal of the relation of primacy within the opposition would solve little, since it was the opposition itself that was problematic—the inversion of a metaphysical opposition is still a metaphysical opposition. Moreover, he insisted, the result of deconstruction is not an end to metaphysics, since there is no alternative set of nonmetaphysical concepts with which it could be replaced. As Derrida remarks in “Structure, Sign, and Play in the Discourse of the Human Sciences” (1966), “The passage beyond philosophy does not consist in turning the page of philosophy…but in continuing to read philosophers in a certain way.”
+
+
+
+
+
+In “Signature, Event, Context” (1971), Derrida recommended a program of “displacing” (rather than reversing) the binary oppositions of metaphysics and then reconstituting or “reinscribing” them. Yet the details of this process of reinscription were never clarified. Like Foucault’s critique of pouvoir-savoir, deconstruction, in the end, left its practitioners empty-handed and directionless: once metaphysics’s pernicious influence had been condemned, it was by no means clear along what lines philosophy should proceed—or even why it should continue at all, since the metaphysical tendencies of language are ultimately inescapable. (It was perhaps in this sense that the American pragmatist Richard Rorty \[1931–2007] recommended that the philosophical search for first principles or “truth” should simply be abandoned; instead, philosophy should take the artifices of literature as its model in order to make the general “conversation of mankind” more stimulating and interesting.)
+
+
+
+
+
+Lévinas
+
+The philosophy of Emmanuel Lévinas (1905–95) filled an important void in post-structuralist ethics. Followers of Derrida and Heidegger increasingly relied on Lévinas’s idea that the traditional, rationalist methods of moral adjudication—Kant’s categorical imperative, for example—fail to do justice to the nature of the individual case in its irreducible particularity.
+
+
+
+
+
+Lévinas studied under both Husserl and Heidegger in Freiburg during the late 1920s, and his philosophy accordingly occupies a position midway between those of his teachers. Lévinas was impressed by Heidegger’s effort to transcend Husserl’s arid rationalism by according primacy to Dasein’s being-in-the-world rather than to the standpoint of a disembodied transcendental subjectivity. Thus he regarded Being and Time as an existentially rich extension of philosophy’s thematic boundaries beyond the conventions of post-Cartesian epistemology, in which the abstract, subject-object opposition predominates. By the same token, however, Lévinas was profoundly troubled by Heidegger’s affinities with Nazism, from which he concluded that the Freiburg philosopher’s break with Western metaphysics had been insufficiently radical.
+
+
+
+
+
+In his major work, Totality and Infinity (1961), Lévinas presented a powerful critique of Heidegger for having granted priority to ontology over “ethics,” by which he meant one’s ethical relationship to “the Other.” By beginning with the Seinsfrage, or the question of being, Heidegger’s philosophy merely reenacted the fundamental error of Western metaphysics in general: the attempt to grasp conceptually the meaning of things rather than to respect their “alterity,” or otherness.
+
+
+
+
+
+For Lévinas the search for totality—as manifest, for example, in the principle of sufficient reason (for everything that is the case, there is a sufficient reason why it should be so and not otherwise)—represents a significant shortcoming of Western thought. At issue is a philosophical will-to-domination that proves destructive of plurality, otherness, and being qua “mystery.” As Lévinas observes in his essay “Ethics as First Philosophy” (1984):
+
+
+
+
+
+Modernity \[is] distinguished by the attempt to develop from the identification and appropriation of being by knowledge toward the identification of being and knowledge.… The Wisdom of first philosophy is reduced to self-consciousness. Identical and non-identical are identified, \[and] the labor of thought wins out over the otherness of things and men.
+
+
+
+A concern to highlight and preserve the “otherness of things and men” is the dominant motivation of Lévinas’s philosophizing.
+
+
+
+In place of the self-serving reduction of alterity to sameness, Lévinas stresses the primacy of ethics. Specifically, it is the “face of the Other” that offers the basis for an alternative version of first philosophy oriented toward “infinity”—endless openness—rather than totality, which Lévinas associates with the “metaphysical closure.” The biblical commandment “Thou shalt not kill,” Lévinas insists, provides philosophy with an ethical grounding that transcends theoretical reason.
+
+
+
+
+
+It is ironic, then, that a continental philosophical tradition that began as an impassioned defense of reason in the face of epistemological skepticism should conclude—as do the French Nietzscheans—by equating reason with domination, insisting that the hegemony of reason be rejected or overthrown.
+
+
+
+Habermas: discourse and democracy
+
+As noted above, post-structuralists viewed the concepts of truth, knowledge, and reason as little more than the intellectual instruments of established power. Their supreme cynicism in this regard was perhaps most dramatically expressed by Foucault, who proclaimed in an interview that “all knowledge rests upon injustice,” that “the instinct for knowledge is malicious,” even “murderous,” and that “torture, c’est la raison” (“torture is reason”).
+
+
+
+
+
+Beginning in the 1970s the German philosopher Jürgen Habermas (born 1929) developed a sophisticated alternative to the skepticism of the post-structuralists. As a philosophical descendant of the Frankfurt School—a movement of Marxist social analysis and criticism associated from the 1920s with the Frankfurt-based Institute for Social Research—Habermas was familiar with the notion of truth as a mask of power, which was, after all, one of the central tenets of Marx’s critique of culture and ideology. This notion, however, presupposes that, beyond the purely partisan interests and perspectives of economic classes, there exist genuinely nonpartisan interests and truly general perspectives. It is this assumption, along with the possibility of distinguishing between “true consciousness” (a defense of generalizable norms) and “false consciousness,” that post-structuralism had abandoned. Accordingly, Habermas maintained that the concepts of truth and knowledge, properly understood, were more complex and durable than the post-structuralists had allowed. In the same vein, he insisted that post-structuralist criticisms of the historical role of reason in the perpetuation of injustice and oppression did nothing to show that reason itself must be abandoned. Rather, he firmly believed in the maxim that the hand that inflicted the wound should cure the disease.
+
+
+
+
+
+Habermas accepted the post-structuralists’ rejection of the traditional concept of truth as “absolute”—i.e., universal, unchanging, and eternal. In its place, he attempted to develop an understanding of truth rooted in a theory of the conditions of successful communication. Drawing on the tradition of American pragmatism and the speech-act theory of J.L. Austin (1911–60) and his American student John Searle (born 1932), he contended that communication aims at reaching agreement and mutual understanding rather than at successfully manipulating the physical world. Such understanding, however, is the result of a series of assumptions that must take for granted the “truth” or “validity” (in some sense of those terms) of most of the utterances they interpret. If this were not the case, the everyday capacity to coordinate action would be impossible.
+
+
+
+
+
+The ethical notions of right and wrong also admit of rational adjudication, according to Habermas. His theory of “discourse ethics” attempted to identify the counterfactual conditions or presuppositions of uncoerced agreement. Toward this end, he reformulated Kant’s categorical imperative in “discourse theoretical” terms: an agreement is fair or uncoerced when all parties concerned have been afforded a maximum opportunity to give reasons or to state arguments before a final decision is reached. This practical ideal provides a means of conferring a kind of truth or validity on the ethical principles to which it may be applied. As Habermas observes in “Discourse Ethics: Notes on a Program of Justification” (1990): “Only those norms can claim to be valid that meet (or could meet) with the approval of all affected in their capacity as participants in a practical discourse.” Thus, whereas Kant’s ethics was confined to the standpoint of independently reasoning subjects, Habermas’s perspective was intersubjective and practical—it stressed the powers of reconciliation inherent in real, practical discourse. And whereas Kant emphasized what each person can will without contradiction to be a general law, Habermas stressed what all people can will in agreement to be a universal norm. In later work, such as Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy (1992), Habermas explored the role that discourse ethics could play in justifying the ethical principles that underlay contemporary liberal democracy.
+
+
+
+
+
+Conclusion
+
+Since the time of Kant, continental philosophy traditionally has concerned itself with the most general philosophical questions—e.g., about the meaning of human existence and the ultimate nature of reality. Indeed, Kant made these questions the centrepiece of his philosophical enterprise when, in the three critiques, he inquired: “What can I know?” (Critique of Pure Reason), “What should I do?” (Critique of Practical Reason), and “What might I hope?” (Critique of Judgment). In respect of generality, therefore, continental philosophy has tended to differ from the Anglo-American, or analytic, tradition, which since the turn of the 20th century has been characterized by the intensive investigation of narrower or more-technical philosophical problems.
+
+
+
+
+
+Reflecting the widespread influence of post-structuralist philosophy in the late 20th century, much of contemporary intellectual culture is skeptical, if not hostile, toward traditional, “absolutist” perspectives regarding the possibility of knowledge and consensus in ethics, politics, history, and even science. The question arises, therefore, as to what role continental philosophy should play. In view of the pressing challenges of a technological civilization in which values and norms are often determined by the drive to master nature technologically or by predominant social or economic interests, its role must be to hold the banner of reason aloft in the face of the allures of baser social trends.
+
+
+
+
+
+Richard Wolin
 
