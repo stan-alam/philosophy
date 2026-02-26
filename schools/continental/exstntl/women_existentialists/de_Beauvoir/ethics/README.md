@@ -1,0 +1,7 @@
+The Ethics of Ambiguity
+
+Simone de Beauvoir, 
+Bernard Frechtman
+ (Translator)
+
+Simone de Beauvoir, novelist, dramatist, and philosopher, was the most distinguished woman writer in modern France. A leading exponent of French existentialism, her work complements, though it is independent of, that of her great friend Jean-Paul Sartre. In "The Ethics of Ambiguity," Madame de Beauvoir penetrates at once to the core ethical problems of modern man: what shall he do, how shall he go about making values, in the face of this awareness of the absurdity of his existence? She forces the reader to face the absurdity of the human condition, and then, having done so, proceeds to develop a dialectic of ambiguity which will enable him not to master the chaos, but to create with it.
