@@ -1,4 +1,4 @@
-\## Notes on Philosophy in the Reformation
+## Notes on Philosophy in the Reformation
 
 
 
