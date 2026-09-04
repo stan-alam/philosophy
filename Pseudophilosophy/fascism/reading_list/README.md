@@ -57,3 +57,15 @@ And finally, Richard J. Evans’s The Coming of the Third Reich: it’s just the
 
 There are also really popular books like Tim Snyder’s On Tyranny and Jason Stanley’s How Fascism Works, which have really exploded in the mainstream and have shaped a lot of the media conversation around fascism today. They were some of our starting points when we began researching, but as we say in the video, we did come to learn that their points of view are a little more on the fringes of the scholarly consensus. Still, they’re quick reads, and useful for understanding how a lot of the liberal establishment is approaching the fascism debate.
 
+-[] Antifa - Mark Bray
+-[] Black Skin, White Masks - Frantz Fanon
+-[] There aint no black in the union jack - Paul Gilroy
+-[] The Transgender Issue - Shon Faye
+-[x] How Facism works - Jason Stanley
+-[] the new authoritarians - Renton
+-[] a nation of of shopkeepers - Dan Evans
+-[] this is facism, a wake-up call -  Rosan Smits
+-[] How to spot a facist - Umberto Eco
+-[] blackshirts & reds - Michael Parenti
+-[] how to defeat the far right - Nick Lowles
+-[] from cable street to oldham 70 years of community resistance - searchlight
